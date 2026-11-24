@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function() {
+        try {
+          var t = localStorage.getItem('stem_theme');
+          if (t === 'light') {
+            document.documentElement.classList.remove('dark');
+          } else {
+            document.documentElement.classList.add('dark');
+          }
+        } catch(e) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+    <title>STEM-Simulations — Interaktiv Ilmiy Simulyatsiyalar & AI Laboratoriyasi</title>
+    <meta name="description" content="Fizika, Kimyo, Matematika, Biologiya va Geografiya fanlaridan 118+ interaktiv STEM simulyatsiyalari. Explore 118+ interactive STEM simulations in Physics, Chemistry, Math, Biology, and Earth Science with real-time guided inquiry." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Manrope:wght@400;500;600;700;800&family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css" crossorigin="anonymous">
+    <meta property="og:title" content="STEM-Simulations — Interaktiv STEM Simulyatsiyalari" />
+    <meta property="og:description" content="Fizika, Kimyo, Matematika, Biologiya va Geografiya fanlaridan 118+ interaktiv STEM simulyatsiyalari. Explore 118+ interactive STEM simulations in Physics, Chemistry, Math, Biology, and Earth Science with real-time guided inquiry." />
+    <meta property="og:site_name" content="STEM-Simulations" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="STEM-Simulations — Interactive STEM Simulations" />
+    <meta name="twitter:description" content="Fizika, Kimyo, Matematika, Biologiya va Geografiya fanlaridan 118+ interaktiv STEM simulyatsiyalari. Explore 118+ interactive STEM simulations in Physics, Chemistry, Math, Biology, and Earth Science with real-time guided inquiry." />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

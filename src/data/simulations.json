@@ -1,0 +1,3764 @@
+[
+  {
+    "id": "acid-base-solutions",
+    "phetId": 112,
+    "slug": "acid-base-solutions",
+    "title": "Acid-Base Solutions",
+    "description": "How do strong and weak acids differ? Use lab tools on your computer to find out! Dip the paper or the probe into solution to measure the pH, or put in the electrodes to measure the conductivity. Then see how concentration and strength affect pH. Can a weak acid solution have the same pH as a strong acid solution?",
+    "learningGoals": "Given acids or bases at the same concentration, demonstrate understanding of acid and base strength by: 1.Relating the strength of an acid or base to the extent to which it dissociates in water 2.Identifying all of the molecules and ions that are present in a given acid or base solution. 3.Comparing the relative concentrations of molecules and ions in weak versus strong acid (or base) solutions. 4.Describing the similarities and differences between strong acids and weak acids or strong bases and weak bases.\nDemonstrate understanding of solution concentration by: 1.Describing the similarities and differences between concentrated and dilute solutions. 2.Comparing the concentrations of all molecules and ions in concentrated versus dilute solutions of a particular acid or base.\nUse both the strength of the acid or base and the concentration of its solution in order to: 1.Describe in words and pictures (graphs or molecular drawings) what it means if you have a: Concentrated solution of a weak acid (or base) or Concentrated solution of a strong acid (or base) or other combinations. 2.Investigate different combinations of strength/concentrations that result in same pH values.\nDescribe how common tools (pH meter, conductivity, pH paper) help identify whether a solution is an acid or base and strong or weak and concentrated or dilute.",
+    "subject": "Chemistry",
+    "file": "acid-base-solutions_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "acid base solutions"
+    ],
+    "featured": true,
+    "version": "1.3.15",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "atomic-interactions",
+      "balancing-chemical-equations",
+      "beers-law-lab"
+    ]
+  },
+  {
+    "id": "area-builder",
+    "phetId": 109,
+    "slug": "area-builder",
+    "title": "Area Builder",
+    "description": "Create your own shapes using colorful blocks and explore the relationship between perimeter and area. Compare the area and perimeter of two shapes side-by-side. Challenge yourself in the game screen to build shapes or find the area of funky figures. Try to collect lots of stars!",
+    "learningGoals": "Find the area of a shape by counting unit squares\nDescribe the relationship between area and perimeter\nBuild shapes with a given area and/or perimeter\nFind the area of an irregular shape by decomposing into smaller, regular shapes (e.g., rectangles, triangles, squares)\nDetermine the scale factor of similar shapes\nGeneralize how area and perimeter change when scaling shapes",
+    "subject": "Math",
+    "file": "area-builder_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/area-builder/latest/area-builder_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/area-builder/latest/area-builder-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "area builder"
+    ],
+    "featured": false,
+    "version": "1.1.38",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-model-algebra",
+      "area-model-decimals",
+      "area-model-introduction"
+    ]
+  },
+  {
+    "id": "area-model-algebra",
+    "phetId": 173,
+    "slug": "area-model-algebra",
+    "title": "Area Model Algebra",
+    "description": "Build rectangles of various sizes and relate multiplication to area. Discover new strategies for multiplying algebraic expressions. Use the game screen to test your multiplication and factoring skills!",
+    "learningGoals": "Develop and justify a method to use the area model to determine the product of a monomial and a binomial or the product of two binomials.\nFactor an expression, including expressions containing a variable.\nRecognize that area represents the product of two numbers and is additive.\nRepresent a multiplication problem as the area of a rectangle, proportionally or using generic area.\nDevelop and justify a strategy to determine the product of two multi-digit numbers by representing the product as an area or the sum of areas.",
+    "subject": "Math",
+    "file": "area-model-algebra_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/area-model-algebra/latest/area-model-algebra_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/area-model-algebra/latest/area-model-algebra-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "area model algebra"
+    ],
+    "featured": false,
+    "version": "1.3.9",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-decimals",
+      "area-model-introduction"
+    ]
+  },
+  {
+    "id": "area-model-decimals",
+    "phetId": 172,
+    "slug": "area-model-decimals",
+    "title": "Area Model Decimals",
+    "description": "Build rectangles of various sizes and relate multiplication to area. Partition a rectangle into smaller areas and discover new strategies for multiplying decimals!",
+    "learningGoals": "Recognize that area represents the product of two numbers and is additive.\nDevelop and justify a strategy that uses the area model to simplify a decimal multiplication problem.\nDevise a strategy to determine the product of two rational numbers (or an integer and a rational number) by representing the product as an area or the sum of areas. \nUse an area model to understand why multiplying a given number by a decimal less than 1 results in a product smaller than the given number. \nInterpret the product of two rational numbers using base-ten tiles",
+    "subject": "Math",
+    "file": "area-model-decimals_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "area model decimals"
+    ],
+    "featured": false,
+    "version": "1.3.8",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-introduction"
+    ]
+  },
+  {
+    "id": "area-model-introduction",
+    "phetId": 170,
+    "slug": "area-model-introduction",
+    "title": "Area Model Introduction",
+    "description": "Build rectangles of various sizes and relate multiplication to area. Partition a rectangle into two areas to discover the distributive property.",
+    "learningGoals": "Recognize that area represents the product of two numbers.\nDevelop and justify a strategy that uses the area model to simplify a multiplication problem.\nRepresent a multiplication problem as the proportional area of a rectangle.\nLooks for patterns in the total area calculation.",
+    "subject": "Math",
+    "file": "area-model-introduction_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "area model introduction"
+    ],
+    "featured": false,
+    "version": "1.3.8",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "area-model-multiplication",
+    "phetId": 171,
+    "slug": "area-model-multiplication",
+    "title": "Area Model Multiplication",
+    "description": "Build rectangles of various sizes and relate multiplication to area. Discover new strategies for multiplying large numbers. Use the game screen to test your problem solving strategies!",
+    "learningGoals": "Recognize that area represents the product of two numbers and is additive.\nRepresent a multiplication problem as the area of a rectangle, proportionally or using generic area.\nDevelop and justify a strategy to determine the product of two multi-digit numbers by representing the product as an area or the sum of areas.",
+    "subject": "Math",
+    "file": "area-model-multiplication_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "area model multiplication"
+    ],
+    "featured": false,
+    "version": "1.3.9",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "arithmetic",
+    "phetId": 139,
+    "slug": "arithmetic",
+    "title": "Arithmetic",
+    "description": "Remember your multiplication tables? Practice your multiplication, division, and factoring skills with this exciting game. No calculators allowed!",
+    "learningGoals": "Explain how multiplication tables help understand multiplication, factoring, and division. \nUse an array model to understand multiplication, factoring, and division. \nIncrease accuracy in multiplying, factoring and dividing.\nDevelop multiple strategies for arithmetic problems.",
+    "subject": "Math",
+    "file": "arithmetic_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/arithmetic/latest/arithmetic_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/arithmetic/latest/arithmetic-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "arithmetic"
+    ],
+    "featured": false,
+    "version": "1.2.8",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "atomic-interactions",
+    "phetId": 149,
+    "slug": "atomic-interactions",
+    "title": "Atomic Interactions",
+    "description": "Explore the interactions between various combinations of two atoms. Observe the total force acting on the atoms or the individual attractive and repulsive forces. Customize the attraction to see how changing the atomic diameter and interaction strength affects the interaction.",
+    "learningGoals": "Explain how attractive and repulsive forces govern the interaction between atoms.\nDescribe the effect of potential well depth on atomic interactions.\nContrast the potential well of a bonded pair of atoms with unbonded pairs.\nDescribe bonds as dynamic and bond lengths as average distances.",
+    "subject": "Chemistry",
+    "file": "atomic-interactions_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "atomic interactions"
+    ],
+    "featured": false,
+    "version": "1.2.21",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "balancing-chemical-equations",
+      "beers-law-lab"
+    ]
+  },
+  {
+    "id": "balancing-act",
+    "phetId": 113,
+    "slug": "balancing-act",
+    "title": "Balancing Act",
+    "description": "Play with objects on a teeter totter to learn about balance. Test what you've learned by trying the Balance Challenge game.",
+    "learningGoals": "Predict how objects of various masses can be used to make a plank balance.\nPredict how changing the positions of the masses on the plank will affect the motion of the plank.\nWrite rules to predict which way a plank will tilt when objects are placed on it.\nUse your rules to solve puzzles about balancing.",
+    "subject": "Physics",
+    "file": "balancing-act_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "balancing act"
+    ],
+    "featured": true,
+    "version": "1.3.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balloons-and-static-electricity",
+      "bending-light",
+      "buoyancy"
+    ]
+  },
+  {
+    "id": "balancing-chemical-equations",
+    "phetId": 114,
+    "slug": "balancing-chemical-equations",
+    "title": "Balancing Chemical Equations",
+    "description": "How do you know if a chemical equation is balanced? What can you change to balance an equation? Play a game to test your ideas!",
+    "learningGoals": "Balance a chemical equation.\nRecognize that the number of atoms of each element is conserved in a chemical reaction.\nDescribe the difference between coefficients and subscripts in a chemical equation.\nTranslate from symbolic to molecular representations of matter.",
+    "subject": "Chemistry",
+    "file": "balancing-chemical-equations_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "balancing chemical equations"
+    ],
+    "featured": false,
+    "version": "2.1.2",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "beers-law-lab"
+    ]
+  },
+  {
+    "id": "balloons-and-static-electricity",
+    "phetId": 115,
+    "slug": "balloons-and-static-electricity",
+    "title": "Balloons and Static Electricity",
+    "description": "Grab a balloon to explore concepts of static electricity such as charge transfer, attraction, repulsion, and induced charge.",
+    "learningGoals": "Describe and draw models for common static electricity concepts (transfer of charge, induction, attraction, repulsion, and grounding)\nMake predictions about force at a distance for various configurations of charge",
+    "subject": "Physics",
+    "file": "balloons-and-static-electricity_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "balloons and static electricity"
+    ],
+    "featured": false,
+    "version": "1.5.26",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "bending-light",
+      "buoyancy"
+    ]
+  },
+  {
+    "id": "beers-law-lab",
+    "phetId": 116,
+    "slug": "beers-law-lab",
+    "title": "Beer's Law Lab",
+    "description": "“The thicker the glass, the darker the brew, the less the light that passes through.” Make colorful concentrated and dilute solutions and explore how much light they absorb and transmit using a virtual spectrophotometer!",
+    "learningGoals": "Describe the relationships between volume and amount of solute to solution concentration\nExplain qualitatively the relationship between solution color and concentration\nPredict and explain how solution concentration will change for adding or removing: water, solute, and/or solution\nCalculate the concentration of solutions in units of molarity (mol/L)\nDesign a procedure for creating a solution of a given concentration\nIdentify when a solution is saturated and predict how concentration will change for adding or removing: water, solute, and/or solution\nDescribe the relationship between the solution concentration and the intensity of light that is absorbed/transmitted\n    Describe the relationship between absorbance, molar absorptivity, path length, and concentration in Beer’s Law\n    Predict how the intensity of light absorbed/transmitted will change with changes in solution type, solution concentration, container width, or light source, and explain why",
+    "subject": "Chemistry",
+    "file": "beers-law-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "beers law lab"
+    ],
+    "featured": false,
+    "version": "1.8.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "bending-light",
+    "phetId": 140,
+    "slug": "bending-light",
+    "title": "Bending Light",
+    "description": "Explore bending of light between two media with different indices of refraction. See how changing from air to water to glass changes the bending angle. Play with prisms of different shapes and make rainbows.",
+    "learningGoals": "Explain how light bends at the interface between two media and what determines the angle.\nApply Snell’s law to a laser beam incident on the interface between media.\nDescribe how the speed and wavelength of light changes in different media.\nDescribe the effect of changing wavelength on the angle of refraction.\nExplain how a prism creates a rainbow.",
+    "subject": "Physics",
+    "file": "bending-light_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "bending light"
+    ],
+    "featured": true,
+    "version": "1.2.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "buoyancy"
+    ]
+  },
+  {
+    "id": "blackbody-spectrum",
+    "phetId": 187,
+    "slug": "blackbody-spectrum",
+    "title": "Blackbody Spectrum",
+    "description": "How does the blackbody spectrum of the sun compare to visible light? Learn about the blackbody spectrum of Sirius A, the sun, a light bulb, and the earth. Adjust the temperature to see the wavelength and intensity of the spectrum change. View the color of the peak of the spectral curve.",
+    "learningGoals": "Describe what happens to the blackbody spectrum as you increase or decrease the temperature. What happens to the shape of the curve and the peak of this curve?\nDescribe the blackbody spectrum of a light bulb. Why do light bulbs get hot? Do they seem efficient? \nImagine that you see 2 hot, glowing objects--one is glowing orange and the other is glowing blue. Which one is hotter?\nFind the relationship between the temperature and the wavelength at the peak of the curve.",
+    "subject": "Chemistry",
+    "file": "blackbody-spectrum_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "blackbody spectrum"
+    ],
+    "featured": false,
+    "version": "1.0.26",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "build-a-fraction",
+    "phetId": 180,
+    "slug": "build-a-fraction",
+    "title": "Build a Fraction",
+    "description": "Build fractions from shapes and numbers to earn stars in this fractions game or explore in the Fractions Lab. Challenge yourself on any level you like. Try to collect lots of stars!",
+    "learningGoals": "Build equivalent fractions using numbers and pictures\nCompare fractions using numbers and patterns\nRecognize equivalent simplified and unsimplified fractions\nNote: Build A Fraction expands on ideas from the Fraction Intro and Fraction Matcher sims or can be used as a stand-alone tool",
+    "subject": "Math",
+    "file": "build-a-fraction_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/build-a-fraction/latest/build-a-fraction_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/build-a-fraction/latest/build-a-fraction-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "build a fraction"
+    ],
+    "featured": false,
+    "version": "1.0.31",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "build-a-molecule",
+    "phetId": 200,
+    "slug": "build-a-molecule",
+    "title": "Build a Molecule",
+    "description": "Starting from atoms, see how many molecules you can build. Collect your molecules and view them in 3D!",
+    "learningGoals": "Describe the difference between an atom and a molecule.\nBuild simple molecules from atoms. \nDistinguish between the coefficient and subscript in a chemical formula.\nConstruct molecules from the chemical formula.\nAssociate common molecule names with multiple representations.\nExperiment with combining atoms to build larger molecules.",
+    "subject": "Chemistry",
+    "file": "build-a-molecule_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "build a molecule"
+    ],
+    "featured": false,
+    "version": "1.0.25",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "build-a-nucleus",
+    "phetId": 213,
+    "slug": "build-a-nucleus",
+    "title": "Build a Nucleus",
+    "description": "How does changing the number of neutrons or protons affect the nuclear species, the stability of a nucleus, and its possible decay mechanisms?  Explore different species, and learn about the common decay paths! Visualize these through the chart of the nuclides and discover the inner energy levels of the nucleus.",
+    "learningGoals": "Explain how changing the number of neutrons or protons affects the atomic number and isotope species.\nDescribe how different decays will change the nucleons in the nucleus and if that changes the symbol of the atom being shown and affects parameters like atomic number/atomic mass.\nPredict the shell model depiction of an isotope based on the isotope symbol or name.\nFind the isotope on the nuclide chart using the symbol, name, or the number of protons and neutrons.\nPredict the resulting isotope and the decay path of an isotope from its position on the nuclide chart.",
+    "subject": "Chemistry",
+    "file": "build-a-nucleus_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "build a nucleus"
+    ],
+    "featured": false,
+    "version": "1.1.10",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "build-an-atom",
+    "phetId": 117,
+    "slug": "build-an-atom",
+    "title": "Build an Atom",
+    "description": "Build an atom out of protons, neutrons, and electrons, and see how the element, charge, and mass change. Then play a game to test your ideas!",
+    "learningGoals": "Use the number of protons, neutrons, and electrons to draw a model of the atom, identify the element, and determine the mass and charge.\nPredict how addition or subtraction of a proton, neutron, or electron will change the element, the charge, and the mass.\nUse the element name, mass, and charge to determine the number of protons, neutrons, and electrons.\nDefine proton, neutron, electron, atom, and ion.\nGenerate an isotopic symbol for an atom, given the number of protons, neutrons, and electrons.",
+    "subject": "Chemistry",
+    "file": "build-an-atom_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "build an atom"
+    ],
+    "featured": true,
+    "version": "1.9.3",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "buoyancy",
+    "phetId": 229,
+    "slug": "buoyancy",
+    "title": "Buoyancy",
+    "description": "When will objects float, and when will they sink? Learn how buoyancy works and the forces involved by experimenting with objects, like blocks, materials with different shapes, a bottle with substances inside, and blocks in a boat, in a pool with a fluid that can be modified.",
+    "learningGoals": "Identify the variables that affect whether an object sinks or floats in a liquid.\nPredict whether an object will sink or float when placed in a liquid.\nDescribe the forces that act on a completely or partially submerged object.\nPredict the apparent weight of a completely or partially submerged object of known mass and volume.\nRelate the buoyant force on an object to the weight of the liquid it displaces (Archimedes’ Principle).\nDescribe how the buoyant force is related to an object's relative density to the fluid.\nCompare the buoyancy of objects with different shapes and the same volume.\nExplain how to control that an object floats, sinks, or stays at depth without sinking to the bottom.\nUnderstand the basic principle of a submarine.\nCalculate the weight that a boat can carry without sinking.",
+    "subject": "Physics",
+    "file": "buoyancy_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "buoyancy"
+    ],
+    "featured": false,
+    "version": "1.2.12",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "buoyancy-basics",
+    "phetId": 230,
+    "slug": "buoyancy-basics",
+    "title": "Buoyancy: Basics",
+    "description": "When will objects float, and when will they sink? Learn how buoyancy works by experimenting with different blocks, modifying their volume and mass, and placing them in the pool with fluids of different densities.  Analyze the forces generated when the block is inside the pool, and identify the variables that affect the buoyant force.",
+    "learningGoals": "Identify the variables that affect whether an object sinks or floats in a liquid.\nPredict whether an object will sink or float when placed in a liquid. \nDescribe the forces that act on a completely or partially submerged object.\nDescribe what apparent weight is.",
+    "subject": "Physics",
+    "file": "buoyancy-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "buoyancy basics"
+    ],
+    "featured": false,
+    "version": "1.2.11",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "calculus-grapher",
+    "phetId": 219,
+    "slug": "calculus-grapher",
+    "title": "Calculus Grapher",
+    "description": "Manipulate a graph of any function and see graphs of its integral, first derivative, and second derivative. Drag the tangent line along the curve, and accumulate area under the curve.",
+    "learningGoals": "Given a function, predict the integral, first derivative, or second derivative curves\nIdentify critical points and compare that x-value across multiple graphs using the reference line\nIdentify where slope is changing, constant, or zero, and relate the slope of the tangent line to the derivative curve\nIdentify where area under the curve is positive or negative, and relate the net signed area to the integral curve \nExplain the effect of a discontinuity in a function on the derivative and the integral curves",
+    "subject": "Math",
+    "file": "calculus-grapher_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "calculus grapher"
+    ],
+    "featured": false,
+    "version": "1.1.1",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "capacitor-lab-basics",
+    "phetId": 167,
+    "slug": "capacitor-lab-basics",
+    "title": "Capacitor Lab: Basics",
+    "description": "Explore how a capacitor works! Change the size of the plates and the distance between them. Change the voltage and see charges build up on the plates. View the electric field, and measure the voltage. Connect a charged capacitor to a light bulb and observe a discharging RC circuit.",
+    "learningGoals": "Explain the relationships between voltage, charge, stored energy, and capacitance\nPredict how capacitance changes when the plate area or plate separation changes\nDescribe how charge drains away from a capacitor into a light bulb",
+    "subject": "Physics",
+    "file": "capacitor-lab-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "capacitor lab basics"
+    ],
+    "featured": false,
+    "version": "1.6.39",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "center-and-variability",
+    "phetId": 211,
+    "slug": "center-and-variability",
+    "title": "Center and Variability",
+    "description": "Center and Variability allows students to explore and compare measures of center and variability, including mean, median, range, IQR, and MAD.",
+    "learningGoals": "Describe how the median is derived. \nPredict the effects of an outlier on both the mean and median. \nCompare the mean and median. \nMake sense of and determine the reasonableness of the mean and median of a data set by looking at the values and/or the distribution. \nPredict the mean and median of a data set.\nCompare measures of variability such as IQR and MAD.\nExplore measures of center and variability from different distributions.\nDescribe what the range, IQR, and MAD measure about a distribution.",
+    "subject": "Math",
+    "file": "center-and-variability_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "center and variability"
+    ],
+    "featured": false,
+    "version": "1.2.6",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "charges-and-fields",
+    "phetId": 148,
+    "slug": "charges-and-fields",
+    "title": "Charges and Fields",
+    "description": "Arrange positive and negative charges in space and view the resulting electric field and electrostatic potential. Plot equipotential lines and discover their relationship to the electric field. Create models of dipoles, capacitors, and more!",
+    "learningGoals": "Determine the variables that affect the strength and direction of the electric field for a static arrangement of charges.\nInvestigate the variables that affect the strength of the electrostatic potential (voltage).\nExplain equipotential lines and compare them to the electric field lines.\nFor an arrangement of static charges, predict the electric field lines. Verify the prediction using vector addition.",
+    "subject": "Physics",
+    "file": "charges-and-fields_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "charges and fields"
+    ],
+    "featured": false,
+    "version": "1.0.67",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "circuit-construction-kit-ac",
+    "phetId": 208,
+    "slug": "circuit-construction-kit-ac",
+    "title": "Circuit Construction Kit: AC",
+    "description": "Experiment with an electronics kit! Build circuits with batteries, resistors, ideal and non-Ohmic light bulbs, fuses, and switches. Build circuits with AC voltage sources, batteries, resistors, capacitors, inductors, fuses, and switches. Take measurements with a lifelike ammeter and voltmeter and graph the current and voltage as a function of time. View the circuit as a schematic diagram or switch to a lifelike view.",
+    "learningGoals": "Explain basic electricity relationships in series and parallel circuits.\nUse an ammeter and voltmeter to take readings in circuits.\nProvide reasoning to explain the measurements and relationships in circuits.\nBuild circuits from schematic drawings.\nDetermine if common objects are conductors or insulators.\nCompare and contrast AC and DC circuits.\nDescribe how capacitors and inductors behave in a circuit. \nExperimentally determine the RC time constant.\nConstruct RLC circuits and determine the conditions for resonance.",
+    "subject": "Physics",
+    "file": "circuit-construction-kit-ac_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "circuit construction kit ac"
+    ],
+    "featured": false,
+    "version": "1.0.23",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "circuit-construction-kit-ac-virtual-lab",
+    "phetId": 209,
+    "slug": "circuit-construction-kit-ac-virtual-lab",
+    "title": "Circuit Construction Kit: AC - Virtual Lab",
+    "description": "Do you like Circuit Construction Kit: AC, but want to use only in-line ammeters? This is the sim for you! Experiment with an electronics kit. Build circuits with AC voltage sources, batteries, resistors, capacitors, inductors, fuses, and switches. Take measurements with a lifelike ammeter and voltmeter and graph the current and voltage as a function of time. View the circuit as a schematic diagram or switch to a lifelike view.",
+    "learningGoals": "Explain basic electricity relationships in series and parallel circuits.\nUse an ammeter and voltmeter to take readings in circuits.\nProvide reasoning to explain the measurements and relationships in circuits.\nBuild circuits from schematic drawings.\nDetermine if common objects are conductors or insulators.\nCompare and contrast AC and DC circuits.\nDescribe how capacitors and inductors behave in a circuit. \nExperimentally determine the RC time constant.\nConstruct RLC circuits and determine the conditions for resonance.",
+    "subject": "Physics",
+    "file": "circuit-construction-kit-ac-virtual-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "circuit construction kit ac virtual lab"
+    ],
+    "featured": false,
+    "version": "1.0.22",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "circuit-construction-kit-dc",
+    "phetId": 165,
+    "slug": "circuit-construction-kit-dc",
+    "title": "Circuit Construction Kit: DC",
+    "description": "Experiment with an electronics kit! Build circuits with batteries, resistors, ideal and non-Ohmic light bulbs, fuses, and switches. Determine if everyday objects are conductors or insulators, and take measurements with an ammeter and voltmeter. View the circuit as a schematic diagram, or switch to a lifelike view.",
+    "learningGoals": "Explore basic electricity relationships.\nExplain basic electricity relationships in series and parallel circuits.\nUse an ammeter and voltmeter to take readings in circuits.\nProvide reasoning to explain the measurements and relationships in circuits.\nBuild circuits from schematic drawings.\nDetermine if common objects are conductors or insulators.",
+    "subject": "Physics",
+    "file": "circuit-construction-kit-dc_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "circuit construction kit dc"
+    ],
+    "featured": true,
+    "version": "1.5.2",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "circuit-construction-kit-dc-virtual-lab",
+    "phetId": 166,
+    "slug": "circuit-construction-kit-dc-virtual-lab",
+    "title": "Circuit Construction Kit: DC - Virtual Lab",
+    "description": "Do you like Circuit Construction Kit: DC, but want to use only in-line ammeters? This is the sim for you! Experiment with an electronics kit. Build circuits with batteries, resistors, ideal and non-Ohmic light bulbs, fuses, and switches. Determine if everyday objects are conductors or insulators, and take measurements with a lifelike ammeter and voltmeter. View the circuit as a schematic diagram, or switch to a lifelike view.",
+    "learningGoals": "Explore basic electricity relationships.\nExplain basic electricity relationships in series and parallel circuits.\nUse an ammeter and voltmeter to take readings in circuits.\nProvide reasoning to explain the measurements and relationships in circuits.\nBuild circuits from schematic drawings.\nDetermine if common objects are conductors or insulators.",
+    "subject": "Physics",
+    "file": "circuit-construction-kit-dc-virtual-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "circuit construction kit dc virtual lab"
+    ],
+    "featured": false,
+    "version": "1.5.2",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "collision-lab",
+    "phetId": 197,
+    "slug": "collision-lab",
+    "title": "Collision Lab",
+    "description": "Investigate simple collisions in 1D and more complex collisions in 2D. Experiment with the number of balls, masses, and initial conditions. Vary the elasticity and see how the total momentum and kinetic energy change during collisions.",
+    "learningGoals": "Draw \"before-and-after\" pictures of collisions.\nConstruct momentum vector representations of \"before-and-after\" collisions.\nApply the law of conservation of momentum to solve collision problems.\nExplain why energy is not conserved and varies in some collisions. \nDetermine the change in mechanical energy in collisions of varying elasticity. \nDefine elasticity.",
+    "subject": "Physics",
+    "file": "collision-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "collision lab"
+    ],
+    "featured": false,
+    "version": "1.1.23",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "color-vision",
+    "phetId": 118,
+    "slug": "color-vision",
+    "title": "Color Vision",
+    "description": "Make a whole rainbow by mixing red, green, and blue light. Change the wavelength of a monochromatic beam or filter white light. View the light as a solid beam, or see the individual photons.",
+    "learningGoals": "Determine what color the person sees for various combinations of red, green, and blue light.\nDescribe the color of light that is able to pass through different colored filters.",
+    "subject": "Physics",
+    "file": "color-vision_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "color vision"
+    ],
+    "featured": false,
+    "version": "1.3.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "concentration",
+    "phetId": 119,
+    "slug": "concentration",
+    "title": "Concentration",
+    "description": "Watch your solution change color as you mix chemicals with water. Then check molarity with the concentration meter. What are all the ways you can change the concentration of your solution? Switch solutes to compare different chemicals and find out how concentrated you can go before you hit saturation!",
+    "learningGoals": "Describe the relationships between volume and amount of solute to solution concentration.\nExplain how solution color and concentration are related.\nPredict how solution concentration will change for any action (or combination of actions) that adds or removes water, solute, or solution, and explain why.\nDesign a procedure for creating a solution of a given concentration.\nDesign and justify a procedure for changing a solution from one concentration to another.\nIdentify when a solution is saturated and predict how concentration will change for any action or combination of actions where water or solute change.",
+    "subject": "Chemistry",
+    "file": "concentration_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/concentration/latest/concentration_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/concentration/latest/concentration-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "concentration"
+    ],
+    "featured": false,
+    "version": "1.8.6",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "coulombs-law",
+    "phetId": 179,
+    "slug": "coulombs-law",
+    "title": "Coulomb's Law",
+    "description": "Visualize the electrostatic force that two charges exert on each other. Observe how changing the sign and magnitude of the charges and the distance between them affects the electrostatic force.",
+    "learningGoals": "Relate the electrostatic force magnitude to the charges and the distance between them\nExplain Newton's third law for electrostatic forces\nUse measurements to determine Coulomb’s constant\nDetermine what makes a force attractive or repulsive",
+    "subject": "Physics",
+    "file": "coulombs-law_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "coulombs law"
+    ],
+    "featured": false,
+    "version": "1.0.32",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "curve-fitting",
+    "phetId": 195,
+    "slug": "curve-fitting",
+    "title": "Curve Fitting",
+    "description": "Drag data points and their error bars and watch the best-fit polynomial curve update instantly. You choose the type of fit: linear, quadratic, or cubic. The reduced chi-square statistic shows you when the fit is good. Or you can try to find the best fit by manually adjusting fit parameters.",
+    "learningGoals": "Explain how the range and uncertainty and number of data points affect correlation coefficient and chi squared\nDescribe how correlation coefficient and chi squared can be used to indicate how well a curve describes the data relationship\nApply understanding of Curve Fitting to designing experiments",
+    "subject": "Math",
+    "file": "curve-fitting_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "curve fitting"
+    ],
+    "featured": false,
+    "version": "1.0.20",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "density",
+    "phetId": 210,
+    "slug": "density",
+    "title": "Density",
+    "description": "Why do some materials like wood float in water, and others don’t? Interact with blocks of different materials, including a custom option by modifying their mass and volume, to explore the effect on the density and discover the conditions for sinking or floating in water. Play detective to determine the material of each block by comparing its density with the values in the table.",
+    "learningGoals": "Describe how the concept of density relates to an object's mass and volume.\nExplain how objects of similar mass can have differing volume, and how objects of similar volume can have differing mass.\nExplain why changing an object's mass or volume does not affect its density (ie, understand density as an intensive property).\nMeasure the volume of an object by observing the amount of fluid it displaces.\nIdentify an unknown material by calculating its density and comparing to a table of known densities.",
+    "subject": "Chemistry",
+    "file": "density_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/density/latest/density_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/density/latest/density-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "density"
+    ],
+    "featured": false,
+    "version": "1.2.10",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "diffusion",
+    "phetId": 189,
+    "slug": "diffusion",
+    "title": "Diffusion",
+    "description": "Mix two gases to explore diffusion! Experiment with concentration, temperature, mass, and radius and determine how these factors affect the rate of diffusion.",
+    "learningGoals": "Explain how two gases mix.\nDesign an experiment to find the factors which affect the rate of diffusion.",
+    "subject": "Chemistry",
+    "file": "diffusion_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "diffusion"
+    ],
+    "featured": false,
+    "version": "1.1.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "energy-forms-and-changes",
+    "phetId": 184,
+    "slug": "energy-forms-and-changes",
+    "title": "Energy Forms and Changes",
+    "description": "Explore how heating and cooling iron, brick, water, and olive oil adds or removes energy. See how energy is transferred between objects. Build your own system, with energy sources, changers, and users. Track and visualize how energy flows and changes through your system.",
+    "learningGoals": "Predict how energy will flow when objects are heated or cooled, or for objects in contact that have different temperatures.\nDescribe the different types of energy and give examples from everyday life.\nDescribe how energy can change from one form of energy into another. \nExplain conservation of energy in real-life systems.\nDesign a system with energy sources, changers, and users and describe how energy flows and changes one form of energy into another.\nTell the energy story for real-life systems.",
+    "subject": "Physics",
+    "file": "energy-forms-and-changes_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "energy forms and changes"
+    ],
+    "featured": false,
+    "version": "1.4.24",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "energy-skate-park",
+    "phetId": 198,
+    "slug": "energy-skate-park",
+    "title": "Energy Skate Park",
+    "description": "Learn about the conservation of energy at the skate park! Build tracks, ramps, and jumps for the skater. View the skater's kinetic energy, potential energy, and thermal energy as they move along the track. Measure the speed and adjust the friction, gravity, and mass.",
+    "learningGoals": "Explain the Conservation of Mechanical Energy using kinetic, gravitational potential, and thermal energy.\nDescribe how changing the mass, friction, or gravity affects the skater's energy.\nPredict position or estimate speed from energy bar graph or pie chart.\nCalculate speed or height at one position from information about a different position.\nDescribe what happens to the energy in the system when the reference height changes.\nDesign a skate park using the concepts of mechanical energy and energy conservation.",
+    "subject": "Physics",
+    "file": "energy-skate-park_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "energy skate park"
+    ],
+    "featured": false,
+    "version": "1.5.1",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "energy-skate-park-basics",
+    "phetId": 120,
+    "slug": "energy-skate-park-basics",
+    "title": "Energy Skate Park: Basics",
+    "description": "Learn about conservation of energy with a skater gal! Explore different tracks and view the kinetic energy, potential energy and friction as she moves. Build your own tracks, ramps, and jumps for the skater.",
+    "learningGoals": "Explain the Conservation of Mechanical Energy concept using kinetic energy (KE) and gravitational potential energy (PE).\nDescribe how the Energy Bar and Pie Charts relate to position and speed.\nExplain how changing the Skater Mass affects energy. \nExplain how changing the Track Friction affects energy. \nPredict position or estimate speed from Energy Bar and Pie Charts.\nCalculate speed or height at one position from information about a different position.\nCalculate KE and PE at one position from information about a different position.\nDesign a skate park using the concepts of mechanical energy and energy conservation.",
+    "subject": "Physics",
+    "file": "energy-skate-park-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "energy skate park basics"
+    ],
+    "featured": true,
+    "version": "1.5.1",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "equality-explorer",
+    "phetId": 174,
+    "slug": "equality-explorer",
+    "title": "Equality Explorer",
+    "description": "Explore what it means for a mathematical statement to be balanced or unbalanced by interacting with objects on a balance. Discover the rules for keeping it balanced. Collect stars by playing the game!",
+    "learningGoals": "Solve and manipulate algebraic equations by applying properties of real numbers (in particular, the inverse properties of addition and multiplication) and properties of equality \nSolve and manipulate algebraic equations by substituting different values for a variable \nUse a balance model to solve an equation for an unknown, and justify your strategies for solving\nSolve an equation using only universal operations",
+    "subject": "Math",
+    "file": "equality-explorer_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/equality-explorer/latest/equality-explorer_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/equality-explorer/latest/equality-explorer-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "equality explorer"
+    ],
+    "featured": false,
+    "version": "1.2.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "equality-explorer-basics",
+    "phetId": 175,
+    "slug": "equality-explorer-basics",
+    "title": "Equality Explorer: Basics",
+    "description": "Explore what it means for a mathematical statement to be balanced or unbalanced by interacting with objects on a balance. Find all the ways to balance cats and dogs or apples and oranges.",
+    "learningGoals": "Use a balance model to solve an equation for an unknown, and justify your strategies for solving\nUse proportional reasoning to determine the value of a single object",
+    "subject": "Math",
+    "file": "equality-explorer-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "equality explorer basics"
+    ],
+    "featured": false,
+    "version": "1.2.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "equality-explorer-two-variables",
+    "phetId": 176,
+    "slug": "equality-explorer-two-variables",
+    "title": "Equality Explorer: Two Variables",
+    "description": "Explore what it means for a mathematical statement to be balanced or unbalanced by interacting with integers and variables on a balance. Find multiple ways to balance x and y to build a system of equations.",
+    "learningGoals": "Solve and manipulate algebraic equations by substituting different values for a variable \nUse a balance model to solve an equation for an unknown, and justify your strategies for solving\nBuild a system of equations \nDetermine the solution set of a system of equations",
+    "subject": "Math",
+    "file": "equality-explorer-two-variables_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/equality-explorer-two-variables/latest/equality-explorer-two-variables_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/equality-explorer-two-variables/latest/equality-explorer-two-variables-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "equality explorer two variables"
+    ],
+    "featured": false,
+    "version": "1.2.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "expression-exchange",
+    "phetId": 161,
+    "slug": "expression-exchange",
+    "title": "Expression Exchange",
+    "description": "Build coin expressions, then exchange them for variable expressions. Simplify and evaluate expressions until you are ready to test your understanding of equivalent expressions in the game!",
+    "learningGoals": "Simplify expressions by combining like-terms \nContextualize coefficients and like/unlike-terms \nInterpret an expression in both abstract and concrete representations\nBuild an expression that is equivalent to a target",
+    "subject": "Math",
+    "file": "expression-exchange_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "expression exchange"
+    ],
+    "featured": false,
+    "version": "1.1.33",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "faradays-electromagnetic-lab",
+    "phetId": 225,
+    "slug": "faradays-electromagnetic-lab",
+    "title": "Faraday's Electromagnetic Lab",
+    "description": "Experiment with magnets and coils to learn about Faraday's Law. Measure the direction and magnitude of the magnetic field. Induce a current through the pickup coil to light a bulb and vary magnetic strength, number of loops, and loop area. Explore applications of Faraday’s Law with electromagnets, transformers, and generators.",
+    "learningGoals": "Predict the direction of the magnetic field for different locations around a bar magnet and an electromagnet.\nCompare and contrast bar magnets and electromagnets.\nIdentify the characteristics of electromagnets that are variable and what effects each variable has on the magnetic field's strength and direction.\nRelate magnetic field strength to distance quantitatively and qualitatively.\nIdentify the conditions that produce induction.\nCompare and contrast how the light bulb and voltmeter show characteristics of the induced current.\nPredict how the induced current will change when the experimental conditions are varied.",
+    "subject": "Physics",
+    "file": "faradays-electromagnetic-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "faradays electromagnetic lab"
+    ],
+    "featured": false,
+    "version": "1.0.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "faradays-law",
+    "phetId": 121,
+    "slug": "faradays-law",
+    "title": "Faraday's Law",
+    "description": "Investigate Faraday's law and how a changing magnetic flux can produce a flow of electricity!",
+    "learningGoals": "Explain what happens when the magnet moves through the coil at different speeds and how this affects the brightness of the bulb and the magnitude &amp; sign of the voltage.\nExplain the difference between moving the magnet through the coil from the right side versus the left side.\nExplain the difference between moving magnet through the big coil versus the smaller coil.",
+    "subject": "Physics",
+    "file": "faradays-law_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "faradays law"
+    ],
+    "featured": true,
+    "version": "1.4.25",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "forces-and-motion-basics",
+    "phetId": 122,
+    "slug": "forces-and-motion-basics",
+    "title": "Forces and Motion: Basics",
+    "description": "Explore the forces at work when pulling against a cart, and pushing a refrigerator, crate, or person. Create an applied force and see how it makes objects move. Change friction and see how it affects the motion of objects.",
+    "learningGoals": "Identify when forces are balanced vs unbalanced.\nDetermine the sum of forces (net force) on an object with more than one force on it.\nPredict the motion of an object with zero net force.\nPredict the direction of motion given a combination of forces.",
+    "subject": "Physics",
+    "file": "forces-and-motion-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "forces and motion basics"
+    ],
+    "featured": true,
+    "version": "2.6.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "fourier-making-waves",
+    "phetId": 205,
+    "slug": "fourier-making-waves",
+    "title": "Fourier: Making Waves",
+    "description": "Add up sines or cosines to make waves of different shapes. Discover how changing the amplitudes of different harmonics changes the sound you hear. Play the Wave Game and combine harmonics to match a target waveform. Construct wave packets and explore the effects of changing the spacing between Fourier components and wave packet width.",
+    "learningGoals": "Explain qualitatively how sines and cosines add up to produce arbitrary periodic functions.\nRecognize that each Fourier component corresponds to a sinusoidal wave with a different wavelength or period.\nDescribe sounds in terms of sinusoidal waves.\nCompare and contrast waves in space and waves in time.\nRecognize that wavelength and period do not correspond to specific points on the graph but indicate the length/time between two consecutive troughs, peaks, or any other corresponding points.\nRelate the mathematical notation of a Fourier series to its graphical representation and determine which aspect of the graph is described by each of the symbols in the equation.\nRecognize that λ & T and k & ω are analogous, but not the same.\nTranslate an equation from summation notation to expanded notation.\nRecognize that the width of a wave packet in position space is inversely related to the width of a wave packet in Fourier space.\nExplain how the Heisenberg Uncertainty Principle results from the properties of waves.\nRecognize that the spacing between Fourier components is inversely related to the spacing between wave packets, and that a continuous distribution of Fourier components leads to a single wave packet.",
+    "subject": "Physics",
+    "file": "fourier-making-waves_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "fourier making waves"
+    ],
+    "featured": false,
+    "version": "1.1.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "fraction-matcher",
+    "phetId": 123,
+    "slug": "fraction-matcher",
+    "title": "Fraction Matcher",
+    "description": "Match shapes and numbers to earn stars in this fractions game. Challenge yourself on any level you like. Try to collect lots of stars!",
+    "learningGoals": "Find matching fractions using numbers and pictures\nMake the same fractions using different numbers\nMatch fractions in different picture patterns\nCompare fractions using numbers and patterns",
+    "subject": "Math",
+    "file": "fraction-matcher_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "fraction matcher"
+    ],
+    "featured": false,
+    "version": "1.2.21",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "fractions-equality",
+    "phetId": 181,
+    "slug": "fractions-equality",
+    "title": "Fractions: Equality",
+    "description": "Build equivalent fractions with different denominators. Match shapes and numbers to earn stars in the game. Challenge yourself on any level you like. Try to collect lots of stars!",
+    "learningGoals": "Make equivalent fractions using different numbers\nMatch fractions in different picture patterns \nCompare fractions on a number line",
+    "subject": "Math",
+    "file": "fractions-equality_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/fractions-equality/latest/fractions-equality_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/fractions-equality/latest/fractions-equality-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "fractions equality"
+    ],
+    "featured": false,
+    "version": "1.1.22",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "fractions-intro",
+    "phetId": 182,
+    "slug": "fractions-intro",
+    "title": "Fractions: Intro",
+    "description": "Explore fractions while you help yourself to 1/3 of a chocolate cake and wash it down with 1/2 a glass of water! Create your own fractions using fun interactive objects. Match shapes and numbers to earn stars in the fractions game. Challenge yourself on any level you like. Try to collect lots of stars!",
+    "learningGoals": "Predict and explain how changing the numerator of a fraction affects the fraction's value\nPredict and explain how changing the denominator of a fraction affects the fraction's value\nConvert between a picture of a fraction, a numeric fraction, and a point on a number line\nBuild matching fractions using numbers and pictures \nCompare fractions using numbers and patterns",
+    "subject": "Math",
+    "file": "fractions-intro_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/fractions-intro/latest/fractions-intro_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/fractions-intro/latest/fractions-intro-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "fractions intro"
+    ],
+    "featured": false,
+    "version": "1.0.33",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "fractions-mixed-numbers",
+    "phetId": 183,
+    "slug": "fractions-mixed-numbers",
+    "title": "Fractions: Mixed Numbers",
+    "description": "Explore fractions while you help yourself to 1 and 1/2 chocolate cakes and wash it down with 1/3 a glass of water! Create your own fractions using fun interactive objects. Match shapes and numbers to earn stars in the mixed number game. Challenge yourself on any level you like. Try to collect lots of stars!",
+    "learningGoals": "Predict and explain how changing the numerator of a fraction affects the fraction's value\nPredict and explain how changing the denominator of a fraction affects the fraction's value\nConvert between a picture of a fraction, an improper fraction, and a mixed number\nBuild matching fractions using numbers and pictures",
+    "subject": "Math",
+    "file": "fractions-mixed-numbers_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/fractions-mixed-numbers/latest/fractions-mixed-numbers_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/fractions-mixed-numbers/latest/fractions-mixed-numbers-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "fractions mixed numbers"
+    ],
+    "featured": false,
+    "version": "1.0.33",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "friction",
+    "phetId": 124,
+    "slug": "friction",
+    "title": "Friction",
+    "description": "Move the Chemistry book and observe what happens.",
+    "learningGoals": "Describe a model for friction a molecular level.\nDescribe matter in terms of molecular motion. The description should include: diagrams to support the description, how the temperature affects the image, what are the differences and similarities between solid, liquid and gas particle motion; how the size and speed of gas molecules relate to everyday objects.",
+    "subject": "Physics",
+    "file": "friction_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/friction/latest/friction_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/friction/latest/friction-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "friction"
+    ],
+    "featured": false,
+    "version": "1.6.23",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "function-builder",
+    "phetId": 144,
+    "slug": "function-builder",
+    "title": "Function Builder",
+    "description": "Play with functions while you ponder Art History. Explore geometric transformations and transform your thinking about linear functions, then have fun figuring out the mystery functions!",
+    "learningGoals": "Define a function as a rule relating each input to exactly one output and predictably acting on inputs\nPredict outputs of a function using given inputs\nCompose functions to create a new function\nInterpret, compare, and translate between multiple representations of an algebraic function",
+    "subject": "Math",
+    "file": "function-builder_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "function builder"
+    ],
+    "featured": false,
+    "version": "1.2.18",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "function-builder-basics",
+    "phetId": 159,
+    "slug": "function-builder-basics",
+    "title": "Function Builder: Basics",
+    "description": "Play with functions while you ponder Art History. Look for patterns, then apply what you learned on the Mystery screen!",
+    "learningGoals": "Define a function as a rule relating each input to exactly one output and predictably acting on inputs\nPredict outputs of a function using given inputs\nCompose functions to create a new function\nDetermine which functions are geometric transformations",
+    "subject": "Math",
+    "file": "function-builder-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "function builder basics"
+    ],
+    "featured": false,
+    "version": "1.2.19",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "gas-properties",
+    "phetId": 188,
+    "slug": "gas-properties",
+    "title": "Gas Properties",
+    "description": "Pump gas molecules to a box and see what happens as you change the volume, add or remove heat, and more. Measure the temperature and pressure, and discover how the properties of the gas vary in relation to each other. Examine kinetic energy and speed histograms for light and heavy particles. Explore diffusion and determine how concentration, temperature, mass, and radius affect the rate of diffusion.",
+    "learningGoals": "Determine how changing a variable among P, V, N, and T influences other gas properties.\nDescribe the relationship between particle-wall collisions and pressure.\nPredict how changing temperature will affect the speed of molecules.\nPredict the speed of molecules in thermal equilibrium based on the relative masses of molecules. \nIdentify when pressure-volume work is done on or by a gas. \nExplain how two gases mix.\nDesign an experiment to find the factors which affect the rate of diffusion.",
+    "subject": "Chemistry",
+    "file": "gas-properties_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "gas properties"
+    ],
+    "featured": false,
+    "version": "1.1.10",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "gases-intro",
+    "phetId": 190,
+    "slug": "gases-intro",
+    "title": "Gases Intro",
+    "description": "Pump gas molecules to a box and see what happens as you change the volume, add or remove heat, and more. Measure the temperature and pressure, and discover how the properties of the gas vary in relation to each other.",
+    "learningGoals": "Describe the behavior of the gas particles in the box.\nIdentify the relationship between pressure, volume, temperature, and number of gas molecules.\nDescribe the relationship between particle-wall collisions and pressure.\nPredict how changing temperature will affect the speed of molecules.",
+    "subject": "Chemistry",
+    "file": "gases-intro_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "gases intro"
+    ],
+    "featured": false,
+    "version": "1.1.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "gene-expression-essentials",
+    "phetId": 168,
+    "slug": "gene-expression-essentials",
+    "title": "Gene Expression Essentials",
+    "description": "Express yourself through your genes! See if you can generate and collect three types of protein, then move on to explore the factors that affect protein synthesis in a cell.",
+    "learningGoals": "Explain the main sequence of events that occur within a cell that leads to protein synthesis.\nPredict how changing the concentrations and interactions of biomolecules affects protein production.\nExplain how protein production in a single cell relates to the quantity produced by a collection of cells.",
+    "subject": "Biology",
+    "file": "gene-expression-essentials_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Biology",
+      "gene expression essentials"
+    ],
+    "featured": false,
+    "version": "1.0.36",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "membrane-transport",
+      "natural-selection",
+      "neuron"
+    ]
+  },
+  {
+    "id": "generator",
+    "phetId": 228,
+    "slug": "generator",
+    "title": "Generator",
+    "description": "Generate electricity with a spinning bar magnet. Explore the underlying physics of a generator and discover how to maximize the brightness of a light bulb.",
+    "learningGoals": "Identify the conditions that produce induction.\nCompare and contrast how the light bulb and voltmeter show characteristics of the induced current.\nPredict how the induced current will change when the experimental conditions are varied.\nExplain the cause of induction.",
+    "subject": "Physics",
+    "file": "generator_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/generator/latest/generator_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/generator/latest/generator-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "generator"
+    ],
+    "featured": false,
+    "version": "1.0.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "geometric-optics",
+    "phetId": 206,
+    "slug": "geometric-optics",
+    "title": "Geometric Optics",
+    "description": "How does a lens or mirror form an image? See how light rays are refracted by a lens or reflected by a mirror. Observe how the image changes when you adjust the focal length of the lens, move the object, or move the screen.",
+    "learningGoals": "Explain how an image is formed by a converging or diverging lens or mirror using ray diagrams.\nDetermine how changing the parameters of the optic (radius of curvature, index of refraction) affects where the image is formed and how it appears (magnification, brightness, and inversion).\nPredict where an image will be formed given the object distance and optic parameters.",
+    "subject": "Physics",
+    "file": "geometric-optics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "geometric optics"
+    ],
+    "featured": false,
+    "version": "1.3.16",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "geometric-optics-basics",
+    "phetId": 215,
+    "slug": "geometric-optics-basics",
+    "title": "Geometric Optics: Basics",
+    "description": "How does a lens or mirror form an image? See how light rays are refracted by a lens or reflected by a mirror. Observe how the image changes when you adjust the focal length, move the object, or move the screen.",
+    "learningGoals": "Explain how an image is formed by a converging lens or flat mirror using ray diagrams.\nDetermine how changing the parameters of a lens (focal length, diameter) affects where the image is formed and how it appears (magnification, brightness, and inversion).\nPredict where an image will be formed given the object distance and optic parameters.",
+    "subject": "Physics",
+    "file": "geometric-optics-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "geometric optics basics"
+    ],
+    "featured": false,
+    "version": "1.3.16",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "graphing-lines",
+    "phetId": 125,
+    "slug": "graphing-lines",
+    "title": "Graphing Lines",
+    "description": "Explore the world of lines. Investigate the relationships between linear equations, slope, and graphs of lines. Challenge yourself in the line game!",
+    "learningGoals": "Explain how the slope of a graphed line can be computed.\nGraph a line given an equation in either slope-intercept or point-slope form.\nWrite an equation in slope-intercept or point-slope form given a graphed line.\nPredict how changing variables in a linear equation will affect the graphed line.",
+    "subject": "Math",
+    "file": "graphing-lines_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "graphing lines"
+    ],
+    "featured": true,
+    "version": "1.4.8",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "graphing-quadratics",
+    "phetId": 178,
+    "slug": "graphing-quadratics",
+    "title": "Graphing Quadratics",
+    "description": "Discover how changing coefficients changes the shape of a curve. View the graphs of individual terms (e.g. y=bx) to see how they add to generate the polynomial curve. Generate definitions for vertex, roots, and axis of symmetry. Compare different forms of a quadratic function. Define a curve by its focus and directrix.",
+    "learningGoals": "Describe how changing the coefficients of a quadratic function changes the graph of the function.\nPredict how the graph of a parabola will change if the coefficients or constant are varied.\nIdentify the vertex, axis of symmetry, roots, and directrix for the graph of a quadratic equation.\nUse the vertex form of a quadratic function to describe the graph of the function.\nDescribe the relationship between the focus and directrix and resulting parabola. \nPredict the graph of a parabola given a focus and directrix.",
+    "subject": "Math",
+    "file": "graphing-quadratics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "graphing quadratics"
+    ],
+    "featured": false,
+    "version": "1.4.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "graphing-slope-intercept",
+    "phetId": 160,
+    "slug": "graphing-slope-intercept",
+    "title": "Graphing Slope-Intercept",
+    "description": "Explore slope-intercept form of a line. Connect the slope and y-intercept to the equation of the line. Challenge yourself in the line game!",
+    "learningGoals": "Graph a line given an equation in slope-intercept form.\nWrite an equation in slope-intercept form given a graphed line.\nPredict how changing the values in a linear equation will affect the graphed line.\nPredict how changing the graphed line will affect the equation.",
+    "subject": "Math",
+    "file": "graphing-slope-intercept_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "graphing slope intercept"
+    ],
+    "featured": false,
+    "version": "1.2.8",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "gravity-and-orbits",
+    "phetId": 151,
+    "slug": "gravity-and-orbits",
+    "title": "Gravity and Orbits",
+    "description": "Move the sun, earth, moon and space station to see how it affects their gravitational forces and orbital paths. Visualize the sizes and distances between different heavenly bodies, and turn off gravity to see what would happen without it!",
+    "learningGoals": "Describe the relationship between the Sun, Earth, Moon and space station, including orbits and positions\nDescribe the size and distance between the Sun, Earth, Moon and space station\nExplain how gravity controls the motion of our solar system\nIdentify the variables that affect the strength of gravity\nPredict how motion would change if gravity was stronger or weaker",
+    "subject": "Earth Science",
+    "file": "gravity-and-orbits_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Earth Science",
+      "gravity and orbits"
+    ],
+    "featured": true,
+    "version": "1.6.28",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "greenhouse-effect",
+      "keplers-laws",
+      "my-solar-system"
+    ]
+  },
+  {
+    "id": "gravity-force-lab",
+    "phetId": 126,
+    "slug": "gravity-force-lab",
+    "title": "Gravity Force Lab",
+    "description": "Visualize the gravitational force that two objects exert on each other. Adjust properties of the objects to see how changing the properties affects the gravitational attraction.",
+    "learningGoals": "Relate gravitational force to masses of objects and distance between objects.\nExplain Newton's third law for gravitational forces.\nDesign experiments that allow you to derive an equation that relates mass, distance, and gravitational force.\nUse measurements to determine the universal gravitational constant.",
+    "subject": "Physics",
+    "file": "gravity-force-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "gravity force lab"
+    ],
+    "featured": false,
+    "version": "2.2.25",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "gravity-force-lab-basics",
+    "phetId": 192,
+    "slug": "gravity-force-lab-basics",
+    "title": "Gravity Force Lab: Basics",
+    "description": "Visualize the gravitational force that two objects exert on each other. Discover the factors that affect gravitational attraction, and determine how adjusting these factors will change the gravitational force.",
+    "learningGoals": "Relate the gravitational force to masses of objects and distance between objects.\nExplain Newton's third law for gravitational forces.\nUse measurements to determine the universal gravitational constant.",
+    "subject": "Physics",
+    "file": "gravity-force-lab-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "gravity force lab basics"
+    ],
+    "featured": false,
+    "version": "1.1.27",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "greenhouse-effect",
+    "phetId": 204,
+    "slug": "greenhouse-effect",
+    "title": "Greenhouse Effect",
+    "description": "How do greenhouse gases affect the climate? Explore the atmosphere during the ice age and today. What happens when you add clouds? Change the greenhouse gas concentration and see how the temperature changes.",
+    "learningGoals": "Describe the effect of greenhouse gases and clouds on sunlight, infrared radiation, and surface temperature.\nExplain why greenhouse gases affect the temperature.\nCompare and contrast the behavior of sunlight and infrared radiation.\nDescribe radiative balance and use it to explain the relationship between the surface temperature and greenhouse gas concentration.\nCompare the effect of greenhouse gases to the effect of infrared absorbing layers.",
+    "subject": "Earth Science",
+    "file": "greenhouse-effect_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Earth Science",
+      "greenhouse effect"
+    ],
+    "featured": true,
+    "version": "1.3.13",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gravity-and-orbits",
+      "keplers-laws",
+      "my-solar-system"
+    ]
+  },
+  {
+    "id": "hookes-law",
+    "phetId": 138,
+    "slug": "hookes-law",
+    "title": "Hooke's Law",
+    "description": "Stretch and compress springs to explore the relationships between force, spring constant, displacement, and potential energy! Investigate what happens when two springs are connected in series and parallel.",
+    "learningGoals": "Explain the relationships between applied force, spring force, spring constant, displacement, and potential energy.\nDescribe how connecting two springs in series or parallel affects the effective spring constant and the spring forces.\nPredict how the potential energy stored in the spring changes as the spring constant and displacement change.",
+    "subject": "Physics",
+    "file": "hookes-law_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "hookes law"
+    ],
+    "featured": false,
+    "version": "1.2.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "isotopes-and-atomic-mass",
+    "phetId": 143,
+    "slug": "isotopes-and-atomic-mass",
+    "title": "Isotopes and Atomic Mass",
+    "description": "Are all atoms of an element the same? How can you tell one isotope from another? Use the sim to learn about isotopes and how abundance relates to the average atomic mass of an element.",
+    "learningGoals": "Define “isotope” using mass number, atomic number, number of protons, neutrons and electrons.\nGiven information about an element, find the mass and name of an isotope. \nGive evidence to support or dispute: “In nature, the chance of finding one isotope of an element is the same for all isotopes.”\nFind the average atomic mass of an element given the abundance and mass of its isotopes.\nPredict how the mass and name of an isotope will change given a change in the number of protons, neutrons or electrons.\nPredict how the average atomic mass of an element changes given a change in the abundance of its isotopes.",
+    "subject": "Chemistry",
+    "file": "isotopes-and-atomic-mass_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "isotopes and atomic mass"
+    ],
+    "featured": false,
+    "version": "1.2.1",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "john-travoltage",
+    "phetId": 127,
+    "slug": "john-travoltage",
+    "title": "John Travoltage",
+    "description": "Play with John’s foot and arm to explore when he gets a shock!",
+    "learningGoals": "Describe and draw models for common static electricity concepts (transfer of charge, attraction, repulsion, and grounding).",
+    "subject": "Physics",
+    "file": "john-travoltage_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "john travoltage"
+    ],
+    "featured": false,
+    "version": "1.6.26",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "keplers-laws",
+    "phetId": 220,
+    "slug": "keplers-laws",
+    "title": "Kepler's Laws",
+    "description": "Interact with the variables to discover how planetary objects moves in elliptical orbits, and the other characteristics of these orbits described by the three Kepler’s Laws. Connect Astronomy with Math, by experimenting with ellipses, areas, and graphs.",
+    "learningGoals": "Explore how the velocity and position of a planet affect its movement and orbit. \nDiscover how Kepler’s Laws apply for different bodies in the solar system \nDescribe the characteristics of an ellipse that support the understanding of planets’ orbits according to Kepler’s first law\nVisualize what is meant by “swept area of a planet’s orbit” and its relationship with equal time intervals in the context of Kepler’s second Law.  \nDescribe the behavior of the planet's velocity in different moments of its orbit \nExplore the relationship between the semi-major axis and the period of an orbit, and their corresponding powers described by the Kepler’s third Law",
+    "subject": "Earth Science",
+    "file": "keplers-laws_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Earth Science",
+      "keplers laws"
+    ],
+    "featured": false,
+    "version": "1.2.12",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gravity-and-orbits",
+      "greenhouse-effect",
+      "my-solar-system"
+    ]
+  },
+  {
+    "id": "least-squares-regression",
+    "phetId": 111,
+    "slug": "least-squares-regression",
+    "title": "Least-Squares Regression",
+    "description": "Create your own scatter plot or use real-world data and try to fit a line to it! Explore how individual data points affect the correlation coefficient and best-fit line.",
+    "learningGoals": "Interpret r (the correlation coefficient) as data points are added, moved, or removed. \nInterpret the sum of the squared residuals while manually fitting a line. \nInterpret the sum of the squared residuals of a best-fit line as a data point is added, moved, or removed. \nCompare the sum of the squared residuals between a manually fitted line and the best-fit line. \nDetermine if a linear fit is appropriate.",
+    "subject": "Math",
+    "file": "least-squares-regression_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "least squares regression"
+    ],
+    "featured": false,
+    "version": "1.2.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "magnet-and-compass",
+    "phetId": 226,
+    "slug": "magnet-and-compass",
+    "title": "Magnet and Compass",
+    "description": "Explore the interactions between a compass and bar magnet. Relate the Earth’s magnetic field to a bar magnet. Vary the magnet's strength, and see how things change both inside and outside. Measure the direction and magnitude of the magnetic field.",
+    "learningGoals": "Predict the direction of the magnetic field for different locations around a bar magnet and an electromagnet.\nRelate magnetic field strength to distance quantitatively and qualitatively.\nDescribe how the earth's magnetic field relates to a bar magnet.",
+    "subject": "Physics",
+    "file": "magnet-and-compass_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "magnet and compass"
+    ],
+    "featured": false,
+    "version": "1.0.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "magnets-and-electromagnets",
+    "phetId": 227,
+    "slug": "magnets-and-electromagnets",
+    "title": "Magnets and Electromagnets",
+    "description": "Explore the interactions between a compass and bar magnet. Discover how you can use a battery and coil to make an electromagnet. Explore the ways to change the magnetic field, and measure its direction and magnitude around the magnet.",
+    "learningGoals": "Predict the direction of the magnetic field for different locations around a bar magnet and an electromagnet.\nRelate magnetic field strength to distance quantitatively and qualitatively.\nDescribe how the earth's magnetic field relates to a bar magnet.\nCompare and contrast bar magnets and electromagnets.\nIdentify the characteristics of electromagnets that are variable and what effects each variable has on the magnetic field's strength and direction.",
+    "subject": "Physics",
+    "file": "magnets-and-electromagnets_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "magnets and electromagnets"
+    ],
+    "featured": false,
+    "version": "1.0.7",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "make-a-ten",
+    "phetId": 155,
+    "slug": "make-a-ten",
+    "title": "Make a Ten",
+    "description": "Add numbers by making tens. Break apart and combine numbers while focusing on place value. Use the adding screen to add any two numbers. Use the game screen to apply your make-a-ten strategies!",
+    "learningGoals": "Improve understanding of place value by using different sizes of papers for ones, tens, and hundreds. \nDevelop mental math strategies when taking apart and putting together numbers.\nUse the “make a ten” strategy when counting and doing addition.\nDevelop a mental model of the basic properties of numbers including commutativity, associativity, and closure.",
+    "subject": "Math",
+    "file": "make-a-ten_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "make a ten"
+    ],
+    "featured": false,
+    "version": "1.1.0",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "masses-and-springs",
+    "phetId": 177,
+    "slug": "masses-and-springs",
+    "title": "Masses and Springs",
+    "description": "Hang masses from springs and adjust the spring constant and damping. Transport the lab to different planets, or slow down time. Observe the forces and energy in the system in real-time, and measure the period using the stopwatch.",
+    "learningGoals": "Determine the factors which affect the period of oscillation\nFind the value of g on Planet X\nDesign an experiment to determine the mass of an unknown object\nDescribe the relationship between the velocity and acceleration vectors, and their relationship to motion, at various points in the oscillation\nExplain how the free-body diagram of the mass changes throughout its oscillation\nExplain the Conservation of Mechanical Energy using kinetic, elastic potential, gravitational potential, and thermal energy",
+    "subject": "Physics",
+    "file": "masses-and-springs_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "masses and springs"
+    ],
+    "featured": false,
+    "version": "1.0.29",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "masses-and-springs-basics",
+    "phetId": 186,
+    "slug": "masses-and-springs-basics",
+    "title": "Masses and Springs: Basics",
+    "description": "Hang masses from springs and discover how they stretch and oscillate. Compare two mass-spring systems, and experiment with spring constant. Transport the lab to different planets, slow down time, and observe the velocity and acceleration throughout the oscillation.",
+    "learningGoals": "Describe the natural length and equilibrium position in your own words.\nFind the relationship between the mass, spring strength (spring constant), and stretch (displacement).\nDesign an experiment to determine the mass of a mystery object\nDevelop a method to measure the period.\nDetermine the factors which affect the period of oscillation.\nCompare the gravity on Planet X to known benchmarks.\nDescribe the relationship between the velocity and acceleration vectors, and their relationship to motion, at various points in the oscillation.",
+    "subject": "Physics",
+    "file": "masses-and-springs-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "masses and springs basics"
+    ],
+    "featured": false,
+    "version": "1.0.28",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "mean-share-and-balance",
+    "phetId": 214,
+    "slug": "mean-share-and-balance",
+    "title": "Mean: Share and Balance",
+    "description": "Explore the mean by leveling cups of water, distributing candy bars, fairly sharing apples, and finding the balance point of a beam. Build a data set with a target mean. Challenge yourself to predict the mean before revealing it.",
+    "learningGoals": "Justify how the mean is calculated. \nDescribe the mean in terms of leveling, fair share, and balance point. \nPredict the effects of (an) outlier(s) on the mean. \nCompare an original data set with manipulated data to see how the mean (leveled out, shared, or balanced) compares with the original data.\nPredict the mean of a data set in continuous and discrete contexts.",
+    "subject": "Math",
+    "file": "mean-share-and-balance_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "mean share and balance"
+    ],
+    "featured": false,
+    "version": "1.1.9",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "membrane-transport",
+    "phetId": 235,
+    "slug": "membrane-transport",
+    "title": "Membrane Transport",
+    "description": "Add different biological solutes to either side of a cell membrane and observe their behavior based on solute properties and concentrations. Add transport proteins and uncover some of the common mechanisms for transporting solutes across a cell membrane.",
+    "learningGoals": "Predict when molecules and ions with specific size and charge properties will move through the membrane and when they will not.\nIdentify the conditions to trigger facilitated diffusion of specific solutes by different types of transport proteins.\nExplain how energy is used in active transport to push molecules and ions against their concentration gradient.",
+    "subject": "Biology",
+    "file": "membrane-transport_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Biology",
+      "membrane transport"
+    ],
+    "featured": false,
+    "version": "1.0.6",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gene-expression-essentials",
+      "natural-selection",
+      "neuron"
+    ]
+  },
+  {
+    "id": "models-of-the-hydrogen-atom",
+    "phetId": 231,
+    "slug": "models-of-the-hydrogen-atom",
+    "title": "Models of the Hydrogen Atom",
+    "description": "This simulation is designed for undergraduate level students who are studying atomic structure.  The simulation could also be used by high school students in advanced level physical science courses.",
+    "learningGoals": "Visualize different models of the hydrogen atom.\nRelate the energy absorbed and emitted by the electrons to the spectrometer data.\nExplain what experimental predictions each model makes.\nDescribe each historical model's differences and limitations.  \nExplain the relationship between the physical picture of the orbits and the energy level diagram of an electron.",
+    "subject": "Physics",
+    "file": "models-of-the-hydrogen-atom_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "models of the hydrogen atom"
+    ],
+    "featured": false,
+    "version": "1.0.9",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "molarity",
+    "phetId": 128,
+    "slug": "molarity",
+    "title": "Molarity",
+    "description": "What determines the concentration of a solution? Learn about the relationships between moles, liters, and molarity by adjusting the amount of solute and solution volume. Change solutes to compare different chemical compounds in water.",
+    "learningGoals": "Describe the relationships between volume and amount of solute to concentration.\nExplain how solution color and concentration are related.\nCalculate the concentration of solutions in units of molarity (mol/L).\nUse molarity to calculate the dilution of solutions.\nCompare solubility limits between solutes.",
+    "subject": "Chemistry",
+    "file": "molarity_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/molarity/latest/molarity_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/molarity/latest/molarity-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "molarity"
+    ],
+    "featured": false,
+    "version": "1.5.24",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "molecule-polarity",
+    "phetId": 162,
+    "slug": "molecule-polarity",
+    "title": "Molecule Polarity",
+    "description": "When is a molecule polar? Change the electronegativity of atoms in a molecule to see how it affects polarity. See how the molecule behaves in an electric field. Change the bond angle to see how shape affects polarity.",
+    "learningGoals": "Predict bond polarity using electronegativity values\nIndicate polarity with a polar arrow or partial charges\nRank bonds in order of polarity\nPredict molecular polarity using bond polarity and molecular shape",
+    "subject": "Chemistry",
+    "file": "molecule-polarity_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "molecule polarity"
+    ],
+    "featured": false,
+    "version": "2.0.2",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "molecule-shapes",
+    "phetId": 130,
+    "slug": "molecule-shapes",
+    "title": "Molecule Shapes",
+    "description": "Explore molecule shapes by building molecules in 3D! How does molecule shape change with different numbers of bonds and electron pairs? Find out by adding single, double or triple bonds and lone pairs to the central atom. Then, compare the model to real molecules!",
+    "learningGoals": "Recognize that molecule geometry is due to repulsions between electron groups.\nRecognize the difference between electron and molecular geometry.\nName molecule and electron geometries for molecules with up to six electron groups surrounding a central atom.\nCompare bond angle predictions from the VSEPR-based model to real molecules.\nDescribe how lone pairs affect bond angles in real molecules.",
+    "subject": "Chemistry",
+    "file": "molecule-shapes_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "molecule shapes"
+    ],
+    "featured": false,
+    "version": "1.6.19",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "molecule-shapes-basics",
+    "phetId": 131,
+    "slug": "molecule-shapes-basics",
+    "title": "Molecule Shapes: Basics",
+    "description": "Explore molecule shapes by building molecules in 3D! Find out how a molecule's shape changes as you add atoms to a molecule.",
+    "learningGoals": "Recognize that molecule shape is due to repulsions between atoms.\nRecognize that bonds are not fixed in place, but can rotate around in response to repulsions.",
+    "subject": "Chemistry",
+    "file": "molecule-shapes-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/molecule-shapes-basics/latest/molecule-shapes-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/molecule-shapes-basics/latest/molecule-shapes-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "molecule shapes basics"
+    ],
+    "featured": false,
+    "version": "1.6.19",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "molecules-and-light",
+    "phetId": 129,
+    "slug": "molecules-and-light",
+    "title": "Molecules and Light",
+    "description": "Turn light source on to explore. Observe what happens in the observation window as you set up different combinations of light source and molecule. Note this simulation is the first to support our pan and zoom feature, so zoom in for a closer look, if you need to.",
+    "learningGoals": "Explore how light interacts with molecules in our atmosphere\nIdentify that absorption of light depends on the molecule and the type of light\nRelate the energy of the light to the resulting motion\nIdentify that energy increases from microwave to ultraviolet\nPredict the motion of a molecule based on the type of light it absorbs\nIdentify how the structure of a molecule affects how it interacts with light",
+    "subject": "Chemistry",
+    "file": "molecules-and-light_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "molecules and light"
+    ],
+    "featured": false,
+    "version": "1.5.33",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "my-solar-system",
+    "phetId": 216,
+    "slug": "my-solar-system",
+    "title": "My Solar System",
+    "description": "Build your own system of heavenly bodies and watch the gravitational ballet. With this orbit simulator, you can set initial positions, velocities, and masses of 2, 3, or 4 bodies, and then see them orbit each other.",
+    "learningGoals": "Predict how the position, mass, velocity, and distance between planetary bodies affect their motion and orbits.\nIllustrate how the gravitational force controls the motions of the planets\nExplore the different motions that a group of planetary bodies can have. \nDescribe the behavior of the planet's velocity in different moments of its orbit.",
+    "subject": "Earth Science",
+    "file": "my-solar-system_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Earth Science",
+      "my solar system"
+    ],
+    "featured": false,
+    "version": "1.3.16",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gravity-and-orbits",
+      "greenhouse-effect",
+      "keplers-laws"
+    ]
+  },
+  {
+    "id": "natural-selection",
+    "phetId": 199,
+    "slug": "natural-selection",
+    "title": "Natural Selection",
+    "description": "Explore how organisms with different traits survive various selection agents within the environment.",
+    "learningGoals": "Determine which mutations are favored by the selection agents of predators and food variety and which mutations are neutral. \nDescribe which traits change the survivability of an organism in different environments.\nExperiment with environments which produce a stable population of bunnies, a population that dies out, and a population that takes over the world. \nTrack genes through multiple generations. \nCompare how dominant and recessive genes get passed onto offspring.",
+    "subject": "Biology",
+    "file": "natural-selection_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Biology",
+      "natural selection"
+    ],
+    "featured": true,
+    "version": "1.5.15",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gene-expression-essentials",
+      "membrane-transport",
+      "neuron"
+    ]
+  },
+  {
+    "id": "neuron",
+    "phetId": 142,
+    "slug": "neuron",
+    "title": "Neuron",
+    "description": "Stimulate a neuron and monitor what happens. Pause, rewind, and move forward in time in order to observe the ions as they move across the neuron membrane.",
+    "learningGoals": "Describe why ions can or cannot move across neuron membranes.\nIdentify leakage and gated channels, and describe the function of each.\nDescribe how membrane permeability changes in terms of different types of channels in a neuron.\nDescribe the sequence of events that generates an action potential.",
+    "subject": "Biology",
+    "file": "neuron_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Biology",
+      "neuron"
+    ],
+    "featured": false,
+    "version": "1.1.36",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "gene-expression-essentials",
+      "membrane-transport",
+      "natural-selection"
+    ]
+  },
+  {
+    "id": "number-compare",
+    "phetId": 218,
+    "slug": "number-compare",
+    "title": "Number Compare",
+    "description": "Compare numbers represented as numerals, objects, groups, and ten frames. Use a sentence, number line, or stacked units to determine the larger group. Hear the comparison spoken aloud in two different languages.",
+    "learningGoals": "Coordinate across multiple representations of a number: written/spoken word, numeral, ten-frame, ones, and objects.\nIdentify the number of objects in a group.\nCompare numbers and quantities up to 10, using a strategy such as grouping, subitizing, counting, or a number line. \nCompare quantities in ten frames.",
+    "subject": "Math",
+    "file": "number-compare_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number compare"
+    ],
+    "featured": false,
+    "version": "1.0.13",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "number-line-distance",
+    "phetId": 203,
+    "slug": "number-line-distance",
+    "title": "Number Line: Distance",
+    "description": "Subtraction is more than an operation- it is also the distance between two numbers! Explore the distance between a person and house, a bird and a fish, and the difference in temperature between two locations. Compare absolute distance and directed distance, and strengthen your number line muscles.",
+    "learningGoals": "Calculate the difference between two integers using subtraction\nRepresent subtraction of integers as the distance between integers \nReason about subtraction of integers in terms of number-locations and directed distances\nShow that the distance between two integers on the number line is the absolute value of their difference\nRecognize and generate equivalence classes of integer differences (e.g., 5 – 2 = 6 – 3)",
+    "subject": "Math",
+    "file": "number-line-distance_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number line distance"
+    ],
+    "featured": false,
+    "version": "1.1.11",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "number-line-integers",
+    "phetId": 196,
+    "slug": "number-line-integers",
+    "title": "Number Line: Integers",
+    "description": "What do elevation, account balances, and temperature have in common? They can all be represented on a number line. Compare integers on a number line and in an inequality statement. Discover the meaning of absolute value.",
+    "learningGoals": "Use positive and negative numbers to represent quantities in multiple contexts.\nExplain the meaning of positive values, negative values, and zero, in multiple contexts.\nDescribe the location of a point on a number line with respect to another number.\nDescribe the location of a point on a number line with respect to its opposite \nDefine the absolute value of a number as its distance from zero. \nInterpret inequality statements as statements about the relative position of two integers on a number line diagram.",
+    "subject": "Math",
+    "file": "number-line-integers_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-line-integers/latest/number-line-integers_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-line-integers/latest/number-line-integers-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number line integers"
+    ],
+    "featured": false,
+    "version": "1.2.12",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "number-line-operations",
+    "phetId": 201,
+    "slug": "number-line-operations",
+    "title": "Number Line: Operations",
+    "description": "Explore operations with integers using an authentic context of net worth, then generalize with a number line. Experiment with adding and subtracting both positives and negatives, and make predictions about whether the total will be positive or negative.",
+    "learningGoals": "Represent addition and subtraction of integers on a horizontal number line\nReason about addition and subtraction of integers in terms of number-locations\nUse logical necessity to reason that addition has the opposite effect as subtraction or that adding (or subtracting) a negative integer has the opposite effect as adding (or subtracting) a positive integer.\nRecognize and generate equivalence classes of integer sums and differences\nShow that a number and its additive inverse (opposite) have a sum of 0\nUsing a net worth context, describe situations that have a positive sum or difference, negative sum or difference, and zero sum or difference\nView adding a negative as equivalent to subtracting a positive, and explain why this relationship makes sense in contexts such as net worth.\nView subtracting a negative as equivalent to adding a positive, and explain why this relationship makes sense in contexts such as net worth.\nApply a number line model for addition and subtraction to new contexts.",
+    "subject": "Math",
+    "file": "number-line-operations_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number line operations"
+    ],
+    "featured": false,
+    "version": "1.1.10",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "number-pairs",
+    "phetId": 233,
+    "slug": "number-pairs",
+    "title": "Number Pairs",
+    "description": "Create number pairs to compose, decompose, and add numbers from 0-20 in multiple contexts. Play with magic beads and kittens that can change color! Add numbers on a number line!",
+    "learningGoals": "Decompose numbers less than or equal to 10/20 into pairs in more than one way.\nInterpret a number pair representation and explain the representation.\nDescribe the decomposition of a number based on either the attribute or the location of objects.\nDescribe a number less than or equal to 10/20 as a sum (or decomposition) of two numbers.\nDetermine the unknown whole number in an implied or explicit addition or subtraction problem relating three whole numbers.",
+    "subject": "Math",
+    "file": "number-pairs_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-pairs/latest/number-pairs_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-pairs/latest/number-pairs-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number pairs"
+    ],
+    "featured": false,
+    "version": "2.0.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "number-play",
+    "phetId": 212,
+    "slug": "number-play",
+    "title": "Number Play",
+    "description": "Play with counting and cardinality. Compare representations, including word, numeral, ten frame, and objects. Hear the number spoken aloud in two different languages. Challenge yourself to subitize numbers up to ten!",
+    "learningGoals": "Coordinate across multiple representations of a number: written/spoken word, numeral, ten-frame, ones, and objects.\nSubitize to 5. \nSubitize to 10. \nPredict the next number in a sequence.\nIdentify the number of objects in a group.\nGiven a number from 1-20, count out that many objects. \nDetermine how many objects there are in a group or ten-frame, up to 20.",
+    "subject": "Math",
+    "file": "number-play_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/number-play/latest/number-play_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/number-play/latest/number-play-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "number play"
+    ],
+    "featured": false,
+    "version": "1.1.13",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "ohms-law",
+    "phetId": 132,
+    "slug": "ohms-law",
+    "title": "Ohm's Law",
+    "description": "See how the equation form of Ohm's law relates to a simple circuit. Adjust the voltage and resistance, and see the current change according to Ohm's law.",
+    "learningGoals": "Predict how current will change when resistance of the circuit is fixed and voltage is varied. \nPredict how current will change when voltage of the circuit is fixed and resistance is varied.",
+    "subject": "Physics",
+    "file": "ohms-law_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "ohms law"
+    ],
+    "featured": false,
+    "version": "1.4.31",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "pendulum-lab",
+    "phetId": 164,
+    "slug": "pendulum-lab",
+    "title": "Pendulum Lab",
+    "description": "Play with one or two pendulums and discover how the period of a simple pendulum depends on the length of the string, the mass of the pendulum bob, the strength of gravity, and the amplitude of the swing. Observe the energy in the system in real-time, and vary the amount of friction. Measure the period using the stopwatch or period timer. Use the pendulum to find the value of g on Planet X. Notice the anharmonic behavior at large amplitude.",
+    "learningGoals": "Design experiments to determine which variables affect the period of a pendulum\nQuantitatively describe how the period of a pendulum depends on these variables\nExplain the small-angle approximation, and define what constitutes a “small” angle\nDetermine the gravitational acceleration of Planet X\nExplain the conservation of mechanical energy, using kinetic energy and gravitational potential energy\nDescribe the Energy Graph from the position and speed of the pendulum",
+    "subject": "Physics",
+    "file": "pendulum-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "pendulum lab"
+    ],
+    "featured": false,
+    "version": "1.0.35",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "ph-scale",
+    "phetId": 133,
+    "slug": "ph-scale",
+    "title": "pH Scale",
+    "description": "Test the pH of things like coffee, spit, and soap to determine whether each is acidic, basic, or neutral. Visualize the relative number of hydroxide ions and hydronium ions in solution. Switch between logarithmic and linear scales. Investigate whether changing the volume or diluting with water affects the pH. Or you can design your own liquid!",
+    "learningGoals": "Determine if a liquid is acidic, basic, or neutral\nPlace acids or bases in relative order\nDescribe on a molecular scale, with illustrations, how the water equilibrium varies with pH\nDetermine concentration of hydroxide, hydronium and water at a given pH\nRelate liquid color to pH\nPredict (qualitatively and quantitatively) how dilution and volume will affect the pH and concentration of hydroxide, hydronium and water",
+    "subject": "Chemistry",
+    "file": "ph-scale_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "ph scale"
+    ],
+    "featured": true,
+    "version": "1.7.6",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "ph-scale-basics",
+    "phetId": 110,
+    "slug": "ph-scale-basics",
+    "title": "pH Scale: Basics",
+    "description": "Test the pH of everyday liquids such as coffee, spit, and soap to determine whether each is acidic, basic, or neutral. Investigate how adding more of a liquid or diluting with water affects pH.",
+    "learningGoals": "Determine if a solution is acidic, basic or neutral\nPlace acids or bases in order of relative acidity or basicity \nRelate liquid color to pH\nPredict how solution volume or dilution with water will affect the pH of acids or bases",
+    "subject": "Chemistry",
+    "file": "ph-scale-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "ph scale basics"
+    ],
+    "featured": false,
+    "version": "1.7.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "plinko-probability",
+    "phetId": 150,
+    "slug": "plinko-probability",
+    "title": "Plinko Probability",
+    "description": "Drop balls through a triangular grid of pegs and see them accumulate in containers. Switch to a histogram view and compare the distribution of balls to an ideal binomial distribution. Adjust the binary probability and develop your knowledge of statistics!",
+    "learningGoals": "Predict the bin where a single ball might fall \nRepeat trials of 100 balls and compare the outcomes\nCount the number of balls in a bin and relate that to the probability of falling in that bin\nCompare and interpret empirical and theoretical statistics\nApply the plinko simulation as a model to other scenarios where there are weighted statistics",
+    "subject": "Math",
+    "file": "plinko-probability_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "plinko probability"
+    ],
+    "featured": false,
+    "version": "1.1.36",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "projectile-data-lab",
+    "phetId": 223,
+    "slug": "projectile-data-lab",
+    "title": "Projectile Data Lab",
+    "description": "The Projectile Data Lab simulation allows students to engage in hands-on data collection and analysis through the context of projectile motion.",
+    "learningGoals": "Visualize and hear data resulting from real-world randomness in launch speed and angle\nAttribute data variability to physical properties of the apparatus\nDesign experiments to investigate the effect of different launch parameters\nCompare sampling distributions and explore the effect of sample size",
+    "subject": "Math",
+    "file": "projectile-data-lab_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "projectile data lab"
+    ],
+    "featured": false,
+    "version": "1.0.12",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "projectile-motion",
+    "phetId": 163,
+    "slug": "projectile-motion",
+    "title": "Projectile Motion",
+    "description": "Blast a car out of a cannon, and challenge yourself to hit a target! Learn about projectile motion by firing various objects. Set parameters such as angle, initial speed, and mass. Explore vector representations, and add air resistance to investigate the factors that influence drag.",
+    "learningGoals": "Determine how each parameter (initial height, initial angle, initial speed, mass, diameter, and altitude) affects the trajectory of an object, with and without air resistance.\nPredict how varying the initial conditions will affect a projectile’s path, and provide an explanation for the prediction.\nEstimate where an object will land, given its initial conditions.\nDetermine that the x and y motion of a projectile are independent. \nInvestigate the variables that affect the drag force.\nDescribe the the effect that the drag force has on the velocity and acceleration.\nDiscuss projectile motion using common vocabulary (such as: launch angle, initial speed, initial height, range, time).",
+    "subject": "Physics",
+    "file": "projectile-motion_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "projectile motion"
+    ],
+    "featured": true,
+    "version": "1.0.34",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "projectile-sampling-distributions",
+    "phetId": 224,
+    "slug": "projectile-sampling-distributions",
+    "title": "Projectile Sampling Distributions",
+    "description": "Engage in hands-on data collection and analysis through the rich context of launching projectiles. Explore how different launch parameters create a variety of distributions as you watch the Central Limit Theorem come to life!",
+    "learningGoals": "Visualize and hear how a sampling distribution is created in real time\nDevelop an intuitive sense of the Central Limit Theorem\nCompare sampling distributions from a variety of interesting populations\nExplore ways to make inferences more accurately",
+    "subject": "Math",
+    "file": "projectile-sampling-distributions_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "projectile sampling distributions"
+    ],
+    "featured": false,
+    "version": "1.0.13",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "proportion-playground",
+    "phetId": 158,
+    "slug": "proportion-playground",
+    "title": "Proportion Playground",
+    "description": "Play with ratios and proportions by designing a necklace, throwing paint balloons, playing billiards, or shopping for apples! Make predictions about proportions before they are revealed.",
+    "learningGoals": "Use a ratio as a descriptive characteristic \nCompare the meaning of a ratio in different contexts \nUse scaling to build proportions or find a missing value in a proportion\nSimplify ratios to build proportions or find a missing value in a proportion\nUse multiplicative reasoning to solve problems",
+    "subject": "Math",
+    "file": "proportion-playground_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "proportion playground"
+    ],
+    "featured": false,
+    "version": "1.0.33",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "quadrilateral",
+    "phetId": 221,
+    "slug": "quadrilateral",
+    "title": "Quadrilateral",
+    "description": "Explore the properties of and relationships between named four-sided shapes by moving sides and corners of a quadrilateral.",
+    "learningGoals": "Predict how moving a side or corner will change or maintain the current named shape.\nDetermine the similarities and differences between quadrilaterals by looking at their side, angle, and diagonal measures and understand that the shared attributes can define a larger category.\nClassify quadrilaterals based on the presence or absence of parallel or perpendicular lines, or the presence or absence of equal or right angles.\nClassify quadrilaterals in a hierarchy based on shared geometric properties.",
+    "subject": "Math",
+    "file": "quadrilateral_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "quadrilateral"
+    ],
+    "featured": false,
+    "version": "1.1.14",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "quantum-coin-toss",
+    "phetId": 234,
+    "slug": "quantum-coin-toss",
+    "title": "Quantum Coin Toss",
+    "description": "Compare the similarities and differences between classical biased coins and quantum \"coins\" that can be prepared in a superposition of states!",
+    "learningGoals": "Develop an interpretation of the superposition of states of a 2-level quantum system.\nDescribe what happens when a superposition of states is observed.\nExplain how measurements of a classical biased coin compare and contrast to those of a quantum system.",
+    "subject": "Physics",
+    "file": "quantum-coin-toss_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/quantum-coin-toss/latest/quantum-coin-toss_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/quantum-coin-toss/latest/quantum-coin-toss-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "quantum coin toss"
+    ],
+    "featured": false,
+    "version": "1.0.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "quantum-measurement",
+    "phetId": 232,
+    "slug": "quantum-measurement",
+    "title": "Quantum Measurement",
+    "description": "Explore 2-level quantum systems and the results of measuring quantum states. Discover the similarities and differences between how a flip of a classical biased coin compares to observations of a quantum \"coin\". Discover how a quantum state can be visualized with the Bloch sphere representation.",
+    "learningGoals": "Predict the distribution of results from repeated measurements of a 2-level quantum system.\nCompare the differences in behavior when measuring classical and quantum systems.\nDescribe how the state of a 2-level system can be mapped to the Bloch Sphere representation.\nPredict the possible observations when spin-1/2 particles are directed through multiple Stern-Gerlach experiments.",
+    "subject": "Physics",
+    "file": "quantum-measurement_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/quantum-measurement/latest/quantum-measurement_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/quantum-measurement/latest/quantum-measurement-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "quantum measurement"
+    ],
+    "featured": false,
+    "version": "1.0.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "ratio-and-proportion",
+    "phetId": 202,
+    "slug": "ratio-and-proportion",
+    "title": "Ratio and Proportion",
+    "description": "Play with the left and right hands in different ways, and explore ratio and proportion. Start on the Discover screen to find each challenge ratio by moving the hands. Then, on the Create screen, set your own challenge ratios. Once you've found a challenge ratio, try to move both hands while maintaining the challenge ratio through proportional reasoning.",
+    "learningGoals": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two hand heights.\nUnderstand the concept of a unit rate a/b associated with a ratio a:b, and use rate language in the context of a ratio relationship.\nRecognize and represent proportional relationships between hand heights.",
+    "subject": "Math",
+    "file": "ratio-and-proportion_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/ratio-and-proportion/latest/ratio-and-proportion_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/ratio-and-proportion/latest/ratio-and-proportion-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "ratio and proportion"
+    ],
+    "featured": false,
+    "version": "1.2.22",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "reactants-products-and-leftovers",
+    "phetId": 134,
+    "slug": "reactants-products-and-leftovers",
+    "title": "Reactants, Products and Leftovers",
+    "description": "Create your own sandwich and then see how many sandwiches you can make with different amounts of ingredients. Do the same with chemical reactions. See how many products you can make with different amounts of reactants. Play a game to test your understanding of reactants, products and leftovers. Can you get a perfect score on each level?",
+    "learningGoals": "Recognize that atoms are conserved during a chemical reaction.\nUse concrete everyday experiences (such as making sandwiches) to describe the what a limiting reactant means in chemical reactions.\nIdentify the limiting reactant in a chemical reaction.\nPredict the products and leftovers after reaction, based on the quantities of reactants and ratios of molecules in the balanced chemical equation.\nPredict the initial amounts of reactants given the amount of products and leftovers using the concept of limiting reactant.\nTranslate from symbolic (chemical formula) to molecular (pictorial) representations of matter.",
+    "subject": "Chemistry",
+    "file": "reactants-products-and-leftovers_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "reactants products and leftovers"
+    ],
+    "featured": false,
+    "version": "1.3.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "resistance-in-a-wire",
+    "phetId": 135,
+    "slug": "resistance-in-a-wire",
+    "title": "Resistance in a Wire",
+    "description": "Observe changes to the equation and wire as you play with the resistivity, length, and area sliders.",
+    "learningGoals": "Predict how changing each variable will affect the resistance. \nExplain the difference between resistance and resistivity.",
+    "subject": "Physics",
+    "file": "resistance-in-a-wire_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "resistance in a wire"
+    ],
+    "featured": false,
+    "version": "1.7.0",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "rutherford-scattering",
+    "phetId": 147,
+    "slug": "rutherford-scattering",
+    "title": "Rutherford Scattering",
+    "description": "How did Rutherford figure out the structure of the atom without being able to see it? Simulate the famous experiment in which he disproved the Plum Pudding model of the atom by observing alpha particles bouncing off atoms and determining that they must have a small core.",
+    "learningGoals": "Describe the qualitative difference between scattering off positively charged nucleus and electrically neutral plum pudding atom.\nFor charged nucleus, describe qualitatively how angle of deflection depends on: Energy of incoming particle, Impact parameter, Charge of target",
+    "subject": "Chemistry",
+    "file": "rutherford-scattering_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "rutherford scattering"
+    ],
+    "featured": false,
+    "version": "1.2.0",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "states-of-matter",
+    "phetId": 153,
+    "slug": "states-of-matter",
+    "title": "States of Matter",
+    "description": "Watch different types of molecules form a solid, liquid, or gas. Add or remove heat and watch the phase change. Change the temperature or volume of a container and see a pressure-temperature diagram respond in real time. Relate the interaction potential to the forces between molecules.",
+    "learningGoals": "Describe a molecular model for solids, liquids, and gases.\nExtend this model to phase changes.\nDescribe how heating or cooling changes the behavior of the molecules.\nDescribe how changing the volume can affect temperature, pressure, and state.\nRelate a pressure-temperature diagram to the behavior of molecules.\nInterpret graphs of interatomic potential.\nDescribe how forces on atoms relate to the interaction potential.\nDescribe the physical meaning of the parameters in the Lennard-Jones potential, and how this relates to the molecule behavior.",
+    "subject": "Chemistry",
+    "file": "states-of-matter_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "states of matter"
+    ],
+    "featured": true,
+    "version": "1.2.23",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "states-of-matter-basics",
+    "phetId": 154,
+    "slug": "states-of-matter-basics",
+    "title": "States of Matter: Basics",
+    "description": "Heat, cool and compress atoms and molecules and watch as they change between solid, liquid and gas phases.",
+    "learningGoals": "Describe characteristics of three states of matter: solid, liquid and gas.\nPredict how varying the temperature or pressure changes the behavior of particles.\nCompare particles in the three different phases.\nExplain freezing and melting with molecular level detail.\nRecognize that different substances have different properties, including melting, freezing and boiling temperatures.",
+    "subject": "Chemistry",
+    "file": "states-of-matter-basics_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Chemistry",
+      "states of matter basics"
+    ],
+    "featured": false,
+    "version": "1.2.23",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "acid-base-solutions",
+      "atomic-interactions",
+      "balancing-chemical-equations"
+    ]
+  },
+  {
+    "id": "trig-tour",
+    "phetId": 141,
+    "slug": "trig-tour",
+    "title": "Trig Tour",
+    "description": "Take a tour of trigonometry using degrees or radians! Look for patterns in the values and on the graph when you change the value of theta. Compare the graphs of sine, cosine, and tangent.",
+    "learningGoals": "Define trig functions for negative angles and angles greater than 90 degrees.\nTranslate between multiple representations of trig functions: as sides of a right triangle inscribed in a unit circle, graph of the function vs. angle, and numerical values of the function.\nDeduce the sign (+, -, 0) of a trig function for any given angle without a calculator using the unit circle concept. \nEstimate the value of trig functions for any given angle without a calculator using the unit circle concept. \nDefine exact trig functions for special angles using degrees or radians for angle measures.",
+    "subject": "Math",
+    "file": "trig-tour_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "trig tour"
+    ],
+    "featured": false,
+    "version": "1.1.9",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "under-pressure",
+    "phetId": 136,
+    "slug": "under-pressure",
+    "title": "Under Pressure",
+    "description": "Explore pressure under and above water. See how pressure changes as you change fluids, gravity, container shapes, and volume.",
+    "learningGoals": "Describe how pressure changes in air and water as a function of depth.\nDescribe what variables affect pressure. \nPredict pressure in a variety of situations.",
+    "subject": "Physics",
+    "file": "under-pressure_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "under pressure"
+    ],
+    "featured": false,
+    "version": "1.1.36",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "unit-rates",
+    "phetId": 157,
+    "slug": "unit-rates",
+    "title": "Unit Rates",
+    "description": "Discover the unit rate while shopping for fruits, vegetables, and candy. Construct a double number line and look for patterns. Challenge yourself on the race track as you compare cars with different rates!",
+    "learningGoals": "Interpret ratios of mixed units (e.g. $/lb)\nDefine the unit rate and determine a method to calculate it\nPredict how changing the numerator or denominator of a rate will affect the unit rate\nUse the double number line to reason about rates and solve real-world problems\nDevelop strategies to use the unit rate to solve problems\nCompare unit rates between two simultaneous situations",
+    "subject": "Math",
+    "file": "unit-rates_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "unit rates"
+    ],
+    "featured": false,
+    "version": "1.1.5",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "vector-addition",
+    "phetId": 193,
+    "slug": "vector-addition",
+    "title": "Vector Addition",
+    "description": "Explore vectors in 1D or 2D, and discover how vectors add together. Specify vectors in Cartesian or polar coordinates, and see the magnitude, angle, and components of each vector. Experiment with vector equations and compare vector sums and differences.",
+    "learningGoals": "Describe a vector in your own words\nExplain a method to add vectors\nCompare and contrast the component styles\nDecompose a vector into components\nDescribe what happens to a vector when it is multiplied by a scalar\nArrange vectors graphically to represent vector addition or subtraction",
+    "subject": "Math",
+    "file": "vector-addition_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "vector addition"
+    ],
+    "featured": false,
+    "version": "1.2.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "vector-addition-equations",
+    "phetId": 194,
+    "slug": "vector-addition-equations",
+    "title": "Vector Addition: Equations",
+    "description": "Experiment with vector equations and compare vector sums and differences. Customize the base vectors or explore scalar multiplication by adjusting the coefficients in equation. Specify vectors in Cartesian or polar coordinates, and view the magnitude, angle, and components of each vector.",
+    "learningGoals": "Describe what happens to a vector when it is multiplied by a scalar\nArrange vectors graphically to represent vector addition or subtraction\nCompare the outcomes of each vector equation",
+    "subject": "Math",
+    "file": "vector-addition-equations_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/vector-addition-equations/latest/vector-addition-equations_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/vector-addition-equations/latest/vector-addition-equations-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Math",
+      "vector addition equations"
+    ],
+    "featured": false,
+    "version": "1.2.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "area-builder",
+      "area-model-algebra",
+      "area-model-decimals"
+    ]
+  },
+  {
+    "id": "wave-interference",
+    "phetId": 185,
+    "slug": "wave-interference",
+    "title": "Wave Interference",
+    "description": "Make waves with a dripping faucet, audio speaker, or laser! Add a second source to create an interference pattern. Put up a barrier to explore single-slit diffraction and double-slit interference. Experiment with diffraction through elliptical, rectangular, or irregular apertures.",
+    "learningGoals": "Make waves with water, sound, and light and see how they are related.\nDesign an experiment to measure the speed of the wave.\nCreate an interference pattern with two sources, and determine the ways to change the pattern.\nFind points of constructive and destructive interference by eye and by using the detectors.\nPut up a barrier to see how the waves move through one or two slits. What sort of pattern do the slits create? How can you change this pattern?\nFor light, predict the locations of the fringes that appear on the screen using d sin(&#952;) = m&#955;. Use the tape measure to verify your predictions.\nExplain how the aperture geometry relates to the diffraction pattern.\nPredict how changing the wavelength or aperture size affects the diffraction pattern.",
+    "subject": "Physics",
+    "file": "wave-interference_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "wave interference"
+    ],
+    "featured": false,
+    "version": "2.0.22",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "wave-on-a-string",
+    "phetId": 137,
+    "slug": "wave-on-a-string",
+    "title": "Wave on a String",
+    "description": "Explore the wonderful world of waves! Even observe a string vibrate in slow motion. Wiggle the end of the string and make waves, or adjust the frequency and amplitude of an oscillator.",
+    "learningGoals": "Discuss wave properties using common vocabulary.\nPredict the behavior of waves through varying medium and at reflective endpoints.",
+    "subject": "Physics",
+    "file": "wave-on-a-string_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "wave on a string"
+    ],
+    "featured": true,
+    "version": "1.2.4",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "waves-intro",
+    "phetId": 191,
+    "slug": "waves-intro",
+    "title": "Waves Intro",
+    "description": "Make waves with a dripping faucet, audio speaker, or laser! Adjust frequency and amplitude, and observe the effects. Hear the sound produced by the speaker, and discover what determines the color of light.",
+    "learningGoals": "Make waves with water, sound, and light and see how they are related.\nDiscuss wave properties using common vocabulary.\nExplain how changing the frequency and amplitude affects the characteristics of the wave.\nDesign an experiment to measure the speed of the wave.",
+    "subject": "Physics",
+    "file": "waves-intro_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_en.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "waves intro"
+    ],
+    "featured": false,
+    "version": "1.1.24",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "balancing-act",
+      "balloons-and-static-electricity",
+      "bending-light"
+    ]
+  },
+  {
+    "id": "normal-modes",
+    "phetId": 130,
+    "slug": "normal-modes",
+    "title": "Normal Modes",
+    "description": "Explore normal modes of coupled oscillators in 1D and 2D. Observe how frequency and phase relationships determine the movement of masses on springs or a continuous string.",
+    "learningGoals": "Explain what a normal mode is for a system of coupled oscillators.\nDescribe the relationship between mode number, wavelength, and frequency.\nPredict how boundary conditions affect resonant frequencies and phase.",
+    "subject": "Physics",
+    "file": "normal-modes_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/normal-modes/latest/normal-modes_all.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/normal-modes/latest/normal-modes-600.png",
+    "grades": [
+      "9-12",
+      "University"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "normal modes",
+      "oscillations",
+      "coupled oscillators",
+      "waves",
+      "resonance"
+    ],
+    "featured": false,
+    "version": "1.2.0",
+    "difficulty": "Advanced",
+    "relatedIds": [
+      "wave-on-a-string",
+      "fourier-making-waves",
+      "sound-waves",
+      "masses-and-springs"
+    ]
+  },
+  {
+    "id": "sound-waves",
+    "phetId": 131,
+    "slug": "sound-waves",
+    "title": "Sound Waves",
+    "description": "Investigate how sound waves travel through air, visualize compression and rarefaction, change frequency and amplitude, and explore listening with two ears and reflection.",
+    "learningGoals": "Explain how different sounds are modeled, described, and produced.\nDesign ways to determine the speed, frequency, period, and wavelength of a sound wave.\nObserve sound interference and diffraction patterns.",
+    "subject": "Physics",
+    "file": "sound-waves_all.html",
+    "directUrl": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html",
+    "thumbnail": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves-600.png",
+    "grades": [
+      "6-8",
+      "9-12"
+    ],
+    "languages": [
+      "English"
+    ],
+    "keywords": [
+      "Physics",
+      "sound waves",
+      "acoustics",
+      "frequency",
+      "amplitude",
+      "wavelength",
+      "interference"
+    ],
+    "featured": true,
+    "version": "1.1.0",
+    "difficulty": "Intermediate",
+    "relatedIds": [
+      "wave-interference",
+      "wave-on-a-string",
+      "waves-intro",
+      "fourier-making-waves"
+    ]
+  }
+]

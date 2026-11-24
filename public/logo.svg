@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="nucleusGrad" x1="16" y1="16" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="ringGrad1" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="ringGrad2" x1="64" y1="0" x2="0" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="64" height="64" rx="16" fill="#0f172a"/>
+  <circle cx="32" cy="32" r="26" stroke="#334155" stroke-width="1" stroke-dasharray="2 3" opacity="0.6"/>
+
+  <g transform="rotate(35 32 32)">
+    <ellipse cx="32" cy="32" rx="23" ry="8.5" stroke="url(#ringGrad1)" stroke-width="2.2" fill="none" opacity="0.9" />
+    <circle cx="55" cy="32" r="3.2" fill="#34d399" filter="url(#glow)" />
+    <circle cx="9" cy="32" r="2.2" fill="#38bdf8" />
+  </g>
+
+  <g transform="rotate(-35 32 32)">
+    <ellipse cx="32" cy="32" rx="23" ry="8.5" stroke="url(#ringGrad2)" stroke-width="2.2" fill="none" opacity="0.9" />
+    <circle cx="55" cy="32" r="3.2" fill="#fbbf24" filter="url(#glow)" />
+    <circle cx="9" cy="32" r="2.2" fill="#a78bfa" />
+  </g>
+
+  <circle cx="32" cy="32" r="7.5" fill="url(#nucleusGrad)" filter="url(#glow)" />
+  <circle cx="30" cy="30" r="2.5" fill="#ffffff" opacity="0.9"/>
+  <circle cx="34" cy="34" r="1.5" fill="#6ee7b7" opacity="0.8"/>
+</svg>
